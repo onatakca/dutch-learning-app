@@ -64,6 +64,16 @@ window.getVocabulary = async function (categoryId) {
             { "dutch": "Help", "english": "Help", "pronunciation": "HELP", "example": "Help mij, alstublieft!", "exampleTranslation": "Help me, please!" },
             { "dutch": "Het ziekenhuis", "english": "The hospital", "pronunciation": "het ZEE-kuh-huis", "example": "Bel het ziekenhuis.", "exampleTranslation": "Call the hospital." },
             { "dutch": "Koorts", "english": "Fever", "pronunciation": "KOORTS", "example": "Heeft u koorts?", "exampleTranslation": "Do you have a fever?" }
+        ],
+        "phrases": [
+            { "dutch": "Ik spreek een beetje Nederlands.", "english": "I speak a little Dutch.", "pronunciation": "ik SPRAYK uhn BAY-tyuh NAY-der-lands", "example": "Sorry, ik spreek een beetje Nederlands.", "exampleTranslation": "Sorry, I speak a little Dutch." },
+            { "dutch": "Kunt u dat herhalen?", "english": "Can you repeat that?", "pronunciation": "kunt u dat her-HAH-luh", "example": "Ik begrijp het niet, kunt u dat herhalen?", "exampleTranslation": "I don't understand, can you repeat that?" },
+            { "dutch": "Mag ik de menukaart?", "english": "May I have the menu?", "pronunciation": "makh ik duh me-NU-kahrt", "example": "Ober, mag ik de menukaart?", "exampleTranslation": "Waiter, may I have the menu?" },
+            { "dutch": "Waar is het toilet?", "english": "Where is the toilet?", "pronunciation": "wahr is het twah-LET", "example": "Pardon, waar is het toilet?", "exampleTranslation": "Excuse me, where is the toilet?" },
+            { "dutch": "Ik kom uit...", "english": "I come from...", "pronunciation": "ik kom uit", "example": "Ik kom uit Amerika.", "exampleTranslation": "I come from America." },
+            { "dutch": "Hoeveel kost dit?", "english": "How much does this cost?", "pronunciation": "hoo-VEEL kost dit", "example": "Mooi shirt! Hoeveel kost dit?", "exampleTranslation": "Nice shirt! How much does this cost?" },
+            { "dutch": "Ik begrijp het niet.", "english": "I don't understand.", "pronunciation": "ik buh-GREIP het neet", "example": "Kunt u langzamer praten? Ik begrijp het niet.", "exampleTranslation": "Can you speak slower? I don't understand." },
+            { "dutch": "Prettig weekend!", "english": "Have a nice weekend!", "pronunciation": "PRET-tikh WEEK-end", "example": "Tot maandag! Prettig weekend!", "exampleTranslation": "See you Monday! Have a nice weekend!" }
         ]
     };
 

@@ -91,7 +91,12 @@ function renderListView() {
                 <span class="vocab-english">${card.english}</span>
             </div>
             <div class="vocab-details">
-                <p class="vocab-example-nl">${card.example}</p>
+                <p class="vocab-example-nl">
+                    ${card.example}
+                    <button class="vocab-audio-btn small-audio-btn" onclick="playAudio('${card.example.replace(/'/g, "\\'")}')">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+                    </button>
+                </p>
                 <p class="vocab-example-en">${card.exampleTranslation}</p>
             </div>
         </div>
@@ -131,7 +136,16 @@ function showCard(index) {
     setTimeout(() => {
         document.querySelector('.dutch-word').textContent = card.dutch;
         document.querySelector('.english-word').textContent = card.english;
-        document.querySelector('.dutch-example').textContent = card.example;
+
+        // Example with audio
+        const exampleContainer = document.querySelector('.dutch-example');
+        exampleContainer.innerHTML = `
+            ${card.example}
+            <button class="vocab-audio-btn small-audio-btn" onclick="playAudio('${card.example.replace(/'/g, "\\'")}')">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+            </button>
+        `;
+
         document.querySelector('.english-example').textContent = card.exampleTranslation;
     }, 200);
 }

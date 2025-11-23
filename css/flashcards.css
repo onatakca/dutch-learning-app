@@ -284,3 +284,21 @@
 #view-toggle:hover svg {
     transform: scale(1.1);
 }
+
+.small-audio-btn {
+    display: inline-flex;
+    vertical-align: middle;
+    margin-left: 8px;
+    padding: 2px;
+    opacity: 0.7;
+}
+
+.small-audio-btn:hover {
+    opacity: 1;
+    background: rgba(255, 159, 28, 0.2);
+}
+
+.vocab-example-nl {
+    display: flex;
+    align-items: center;
+}

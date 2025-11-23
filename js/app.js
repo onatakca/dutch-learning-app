@@ -1,5 +1,4 @@
 // Initialize app
-initTheme();
 checkLogin();
 loadCategories();
 
@@ -37,54 +36,10 @@ function checkLogin() {
             nameDisplay.textContent = name;
             greeting.classList.remove('hidden');
             modal.classList.add('hidden');
-
-            // Reset progress for new user (optional, keeping simple for now)
-            // localStorage.removeItem('dutch_app_progress');
-            // localStorage.removeItem('dutch_app_stats');
-            // location.reload(); 
         }
     });
 }
 
-/**
- * Initialize Theme (Dark/Light Mode)
- */
-function initTheme() {
-    const themeToggle = document.getElementById('theme-toggle');
-    if (!themeToggle) return;
-
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    const savedTheme = localStorage.getItem('theme');
-
-    // Apply initial theme
-    if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
-        document.documentElement.setAttribute('data-theme', 'dark');
-    }
-
-    // Toggle theme
-    themeToggle.addEventListener('click', () => {
-        const currentTheme = document.documentElement.getAttribute('data-theme');
-        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-
-        document.documentElement.setAttribute('data-theme', newTheme);
-        localStorage.setItem('theme', newTheme);
-        console.log('Theme toggled to:', newTheme);
-    });
-
-    // Start Learning Button
-    const startBtn = document.getElementById('start-learning-btn');
-    if (startBtn) {
-        startBtn.addEventListener('click', () => {
-            document.getElementById('categories-container').scrollIntoView({
-                behavior: 'smooth'
-            });
-        });
-    }
-}
-
-/**
- * Load Categories from JS
- */
 /**
  * Load Categories from JS
  */
@@ -148,4 +103,14 @@ function createCategoryCard(category) {
     });
 
     return div;
+}
+
+// Start Learning Button
+const startBtn = document.getElementById('start-learning-btn');
+if (startBtn) {
+    startBtn.addEventListener('click', () => {
+        document.getElementById('categories-container').scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
 }

@@ -47,6 +47,14 @@ window.categoriesData = {
             "level": "A2",
             "wordCount": 100,
             "progress": 0
+        },
+        {
+            "id": "phrases",
+            "name": "Essential Phrases",
+            "icon": "💬",
+            "level": "A1-A2",
+            "wordCount": 50,
+            "progress": 0
         }
     ]
 };
