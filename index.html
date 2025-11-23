@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn Dutch with practical, everyday phrases. Free, interactive, and effective.">
+    <title>Dutch Learning App</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <header class="main-header">
+            <div class="logo-container">
+                <span class="flag-icon">🇳🇱</span>
+                <h1>Dutch<span class="highlight">Daily</span></h1>
+            </div>
+            <nav class="main-nav">
+                <span id="user-greeting" class="user-greeting hidden">Hello, <span
+                        id="username-display">User</span>!</span>
+                <button id="theme-toggle" class="icon-button" aria-label="Toggle Dark Mode">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                        class="feather feather-moon">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
+            </nav>
+        </header>
+
+        <main id="main-content">
+            <!-- Hero Section -->
+            <section class="hero-section">
+                <div class="hero-content">
+                    <h2>Master <span class="text-gradient">Everyday Dutch</span></h2>
+                    <p class="subtitle">Practical phrases for real life. No boring lists.</p>
+                    <div class="stats-overview">
+                        <div class="stat-card">
+                            <span class="stat-value">0</span>
+                            <span class="stat-label">Words Learned</span>
+                        </div>
+                        <div class="stat-card">
+                            <span class="stat-value">0</span>
+                            <span class="stat-label">Day Streak</span>
+                        </div>
+                    </div>
+                    <button class="cta-button" id="start-learning-btn">Start Learning</button>
+                </div>
+            </section>
+
+            <!-- Categories Grid (Placeholder) -->
+            <section class="categories-section" id="categories-container">
+                <div class="section-header">
+                    <h3>Choose a Category</h3>
+                </div>
+                <div class="categories-grid">
+                    <!-- Categories will be injected here by JS -->
+                    <div class="category-card skeleton"></div>
+                    <div class="category-card skeleton"></div>
+                    <div class="category-card skeleton"></div>
+                    <div class="category-card skeleton"></div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="main-footer">
+            <p>&copy; 2025 Dutch Learning App. Open Source Education.</p>
+        </footer>
+    </div>
+
+    <!-- Login Modal -->
+    <div id="login-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Welkom! 👋</h2>
+                <p>Enter your name to start learning.</p>
+            </div>
+            <form id="login-form">
+                <input type="text" id="username-input" placeholder="Your Name" required autocomplete="off">
+                <button type="submit" class="cta-button full-width">Let's Go!</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="data/categories.js"></script>
+    <script src="js/progress.js"></script>
+    <script src="js/app.js" defer></script>
+</body>
+
+</html>
