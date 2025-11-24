@@ -7,6 +7,7 @@ window.getVocabulary = async function (categoryId) {
         "greetings": [
             { "dutch": "Hallo", "english": "Hello", "pronunciation": "HAH-loh", "example": "Hallo! Hoe gaat het?", "exampleTranslation": "Hello! How are you?" },
             { "dutch": "Goedemorgen", "english": "Good morning", "pronunciation": "KHOO-duh-MOR-khuh", "example": "Goedemorgen, iedereen.", "exampleTranslation": "Good morning, everyone." },
+            { "dutch": "Goedemiddag", "english": "Good afternoon", "pronunciation": "KHOO-duh-MID-dakh", "example": "Goedemiddag, mevrouw.", "exampleTranslation": "Good afternoon, madam." },
             { "dutch": "Goedenavond", "english": "Good evening", "pronunciation": "KHOO-duh-NAH-vont", "example": "Goedenavond, meneer.", "exampleTranslation": "Good evening, sir." },
             { "dutch": "Welterusten", "english": "Good night", "pronunciation": "VEL-tuh-RUS-tuh", "example": "Ik ga slapen, welterusten.", "exampleTranslation": "I'm going to sleep, good night." },
             { "dutch": "Dank je wel", "english": "Thank you very much", "pronunciation": "DAHNK yuh VEL", "example": "Dank je wel voor de hulp.", "exampleTranslation": "Thank you very much for the help." },
@@ -14,7 +15,16 @@ window.getVocabulary = async function (categoryId) {
             { "dutch": "Tot ziens", "english": "Goodbye / See you", "pronunciation": "TOT zeens", "example": "Tot ziens! Fijne dag.", "exampleTranslation": "Goodbye! Have a nice day." },
             { "dutch": "Alstublieft", "english": "Please / Here you go", "pronunciation": "ALS-too-BLEEFT", "example": "Een koffie, alstublieft.", "exampleTranslation": "A coffee, please." },
             { "dutch": "Hoe gaat het?", "english": "How are you?", "pronunciation": "HOO khaht het", "example": "Alles goed? Hoe gaat het?", "exampleTranslation": "Everything good? How are you?" },
-            { "dutch": "Aangenaam", "english": "Nice to meet you", "pronunciation": "AHN-khuh-nahm", "example": "Ik ben Tom, aangenaam.", "exampleTranslation": "I am Tom, nice to meet you." }
+            { "dutch": "Aangenaam", "english": "Nice to meet you", "pronunciation": "AHN-khuh-nahm", "example": "Ik ben Tom, aangenaam.", "exampleTranslation": "I am Tom, nice to meet you." },
+            { "dutch": "Ja", "english": "Yes", "pronunciation": "YAH", "example": "Ja, graag.", "exampleTranslation": "Yes, please." },
+            { "dutch": "Nee", "english": "No", "pronunciation": "NAY", "example": "Nee, dank je.", "exampleTranslation": "No, thank you." },
+            { "dutch": "Misschien", "english": "Maybe", "pronunciation": "mis-SCHEEN", "example": "Misschien later.", "exampleTranslation": "Maybe later." },
+            { "dutch": "Pardon", "english": "Excuse me", "pronunciation": "par-DON", "example": "Pardon, mag ik erlangs?", "exampleTranslation": "Excuse me, may I pass?" },
+            { "dutch": "Het spijt me", "english": "I am sorry", "pronunciation": "het SPEIT muh", "example": "Het spijt me, ik weet het niet.", "exampleTranslation": "I am sorry, I don't know." },
+            { "dutch": "Ik heet...", "english": "My name is...", "pronunciation": "ik HAYT", "example": "Ik heet Sarah.", "exampleTranslation": "My name is Sarah." },
+            { "dutch": "Waar kom je vandaan?", "english": "Where are you from?", "pronunciation": "wahr kom yuh van-DAHN", "example": "Waar kom je vandaan?", "exampleTranslation": "Where are you from?" },
+            { "dutch": "Ik woon in...", "english": "I live in...", "pronunciation": "ik WOON in", "example": "Ik woon in Amsterdam.", "exampleTranslation": "I live in Amsterdam." },
+            { "dutch": "Spreek je Engels?", "english": "Do you speak English?", "pronunciation": "SPRAYK yuh ENG-els", "example": "Spreek je Engels?", "exampleTranslation": "Do you speak English?" }
         ],
         "shopping": [
             { "dutch": "De bon", "english": "The receipt", "pronunciation": "duh BON", "example": "Mag ik de bon, alstublieft?", "exampleTranslation": "May I have the receipt, please?" },
@@ -24,7 +34,19 @@ window.getVocabulary = async function (categoryId) {
             { "dutch": "Duur", "english": "Expensive", "pronunciation": "DUUR", "example": "Dat is te duur.", "exampleTranslation": "That is too expensive." },
             { "dutch": "Goedkoop", "english": "Cheap", "pronunciation": "khoot-KOOP", "example": "Deze appels zijn goedkoop.", "exampleTranslation": "These apples are cheap." },
             { "dutch": "De supermarkt", "english": "The supermarket", "pronunciation": "SU-per-markt", "example": "Ik ga naar de supermarkt.", "exampleTranslation": "I am going to the supermarket." },
-            { "dutch": "Ik zoek...", "english": "I am looking for...", "pronunciation": "ik ZOOK", "example": "Ik zoek de melk.", "exampleTranslation": "I am looking for the milk." }
+            { "dutch": "Ik zoek...", "english": "I am looking for...", "pronunciation": "ik ZOOK", "example": "Ik zoek de melk.", "exampleTranslation": "I am looking for the milk." },
+            { "dutch": "De markt", "english": "The market", "pronunciation": "duh MARKT", "example": "Op zaterdag ga ik naar de markt.", "exampleTranslation": "On Saturday I go to the market." },
+            { "dutch": "Kopen", "english": "To buy", "pronunciation": "KO-puh", "example": "Ik wil brood kopen.", "exampleTranslation": "I want to buy bread." },
+            { "dutch": "Verkopen", "english": "To sell", "pronunciation": "ver-KO-puh", "example": "Verkoopt u postzegels?", "exampleTranslation": "Do you sell stamps?" },
+            { "dutch": "De winkel", "english": "The shop", "pronunciation": "duh WING-kuhl", "example": "De winkel is open.", "exampleTranslation": "The shop is open." },
+            { "dutch": "Open", "english": "Open", "pronunciation": "O-puh", "example": "Tot hoe laat bent u open?", "exampleTranslation": "Until what time are you open?" },
+            { "dutch": "Gesloten", "english": "Closed", "pronunciation": "khuh-SLO-tuh", "example": "De winkel is gesloten.", "exampleTranslation": "The shop is closed." },
+            { "dutch": "De ingang", "english": "The entrance", "pronunciation": "duh IN-khang", "example": "Waar is de ingang?", "exampleTranslation": "Where is the entrance?" },
+            { "dutch": "De uitgang", "english": "The exit", "pronunciation": "duh UIT-khang", "example": "Dit is de uitgang.", "exampleTranslation": "This is the exit." },
+            { "dutch": "De aanbieding", "english": "The offer / Sale", "pronunciation": "duh AHN-bee-ding", "example": "Dat is een goede aanbieding.", "exampleTranslation": "That is a good offer." },
+            { "dutch": "Gratis", "english": "Free", "pronunciation": "KHRAH-tis", "example": "Is dit tasje gratis?", "exampleTranslation": "Is this bag free?" },
+            { "dutch": "Boodschappen doen", "english": "To do groceries", "pronunciation": "BOOT-schap-puh DOON", "example": "Ik ga boodschappen doen.", "exampleTranslation": "I am going to do groceries." },
+            { "dutch": "De rij", "english": "The queue / line", "pronunciation": "duh REI", "example": "Er staat een lange rij.", "exampleTranslation": "There is a long queue." }
         ],
         "food": [
             { "dutch": "Het menu", "english": "The menu", "pronunciation": "het me-NU", "example": "Mag ik het menu zien?", "exampleTranslation": "May I see the menu?" },
@@ -34,7 +56,19 @@ window.getVocabulary = async function (categoryId) {
             { "dutch": "Lekker", "english": "Tasty / Yummy", "pronunciation": "LEK-ker", "example": "Dit is heel lekker.", "exampleTranslation": "This is very tasty." },
             { "dutch": "Ik ben allergisch", "english": "I am allergic", "pronunciation": "ik ben al-LER-gies", "example": "Ik ben allergisch voor noten.", "exampleTranslation": "I am allergic to nuts." },
             { "dutch": "Vegetarisch", "english": "Vegetarian", "pronunciation": "vay-khuh-TAH-ries", "example": "Heeft u vegetarische opties?", "exampleTranslation": "Do you have vegetarian options?" },
-            { "dutch": "Het bier", "english": "The beer", "pronunciation": "het BEER", "example": "Twee biertjes, alstublieft.", "exampleTranslation": "Two beers, please." }
+            { "dutch": "Het bier", "english": "The beer", "pronunciation": "het BEER", "example": "Twee biertjes, alstublieft.", "exampleTranslation": "Two beers, please." },
+            { "dutch": "De wijn", "english": "The wine", "pronunciation": "duh WEIN", "example": "Rode of witte wijn?", "exampleTranslation": "Red or white wine?" },
+            { "dutch": "Het brood", "english": "The bread", "pronunciation": "het BROOT", "example": "Vers brood is lekker.", "exampleTranslation": "Fresh bread is tasty." },
+            { "dutch": "De kaas", "english": "The cheese", "pronunciation": "duh KAHS", "example": "Ik hou van Nederlandse kaas.", "exampleTranslation": "I love Dutch cheese." },
+            { "dutch": "De melk", "english": "The milk", "pronunciation": "duh MELK", "example": "Koffie met melk.", "exampleTranslation": "Coffee with milk." },
+            { "dutch": "De koffie", "english": "The coffee", "pronunciation": "duh KOF-fee", "example": "Een kopje koffie.", "exampleTranslation": "A cup of coffee." },
+            { "dutch": "De thee", "english": "The tea", "pronunciation": "duh TAY", "example": "Wilt u thee?", "exampleTranslation": "Do you want tea?" },
+            { "dutch": "Het ontbijt", "english": "The breakfast", "pronunciation": "het ont-BEIT", "example": "Wat eet je voor ontbijt?", "exampleTranslation": "What do you eat for breakfast?" },
+            { "dutch": "De lunch", "english": "The lunch", "pronunciation": "duh LUNCH", "example": "Tijd voor de lunch.", "exampleTranslation": "Time for lunch." },
+            { "dutch": "Het avondeten", "english": "The dinner", "pronunciation": "het AH-vond-ay-tuh", "example": "Het avondeten is klaar.", "exampleTranslation": "Dinner is ready." },
+            { "dutch": "De ober", "english": "The waiter", "pronunciation": "duh O-ber", "example": "Roep de ober even.", "exampleTranslation": "Call the waiter for a moment." },
+            { "dutch": "Bestellen", "english": "To order", "pronunciation": "buh-STEL-luh", "example": "Ik wil graag bestellen.", "exampleTranslation": "I would like to order." },
+            { "dutch": "Proost", "english": "Cheers", "pronunciation": "PROOST", "example": "Proost op het weekend!", "exampleTranslation": "Cheers to the weekend!" }
         ],
         "transport": [
             { "dutch": "De trein", "english": "The train", "pronunciation": "duh TREIN", "example": "De trein vertrekt om 8 uur.", "exampleTranslation": "The train departs at 8 o'clock." },
@@ -44,17 +78,44 @@ window.getVocabulary = async function (categoryId) {
             { "dutch": "Een kaartje", "english": "A ticket", "pronunciation": "uhn KAHRT-juh", "example": "Ik wil graag een kaartje kopen.", "exampleTranslation": "I would like to buy a ticket." },
             { "dutch": "Rechts", "english": "Right", "pronunciation": "REKHTS", "example": "Ga hier naar rechts.", "exampleTranslation": "Go right here." },
             { "dutch": "Links", "english": "Left", "pronunciation": "LINKS", "example": "Aan de linkerkant.", "exampleTranslation": "On the left side." },
-            { "dutch": "Rechtdoor", "english": "Straight ahead", "pronunciation": "rekht-DOOR", "example": "Ga rechtdoor tot de kerk.", "exampleTranslation": "Go straight ahead until the church." }
+            { "dutch": "Rechtdoor", "english": "Straight ahead", "pronunciation": "rekht-DOOR", "example": "Ga rechtdoor tot de kerk.", "exampleTranslation": "Go straight ahead until the church." },
+            { "dutch": "De tram", "english": "The tram", "pronunciation": "duh TRAM", "example": "Neem tram 5.", "exampleTranslation": "Take tram 5." },
+            { "dutch": "De metro", "english": "The metro / subway", "pronunciation": "duh MET-ro", "example": "De metro is snel.", "exampleTranslation": "The metro is fast." },
+            { "dutch": "De auto", "english": "The car", "pronunciation": "duh OW-to", "example": "Ik heb geen auto.", "exampleTranslation": "I don't have a car." },
+            { "dutch": "Het vliegtuig", "english": "The airplane", "pronunciation": "het VLIEKH-tuikh", "example": "Het vliegtuig landt zo.", "exampleTranslation": "The airplane is landing soon." },
+            { "dutch": "De luchthaven", "english": "The airport", "pronunciation": "duh LUCHT-ha-vuh", "example": "Schiphol is een grote luchthaven.", "exampleTranslation": "Schiphol is a big airport." },
+            { "dutch": "Vertraging", "english": "Delay", "pronunciation": "ver-TRAH-khing", "example": "De trein heeft vertraging.", "exampleTranslation": "The train has a delay." },
+            { "dutch": "Spoor", "english": "Platform / Track", "pronunciation": "SPOOR", "example": "De trein vertrekt van spoor 4.", "exampleTranslation": "The train departs from platform 4." },
+            { "dutch": "Inchecken", "english": "To check in", "pronunciation": "IN-chek-kuh", "example": "Vergeet niet in te checken.", "exampleTranslation": "Don't forget to check in." },
+            { "dutch": "Uitchecken", "english": "To check out", "pronunciation": "UIT-chek-kuh", "example": "Je moet ook uitchecken.", "exampleTranslation": "You also have to check out." },
+            { "dutch": "De weg", "english": "The road / way", "pronunciation": "duh WEKH", "example": "Ik ben de weg kwijt.", "exampleTranslation": "I am lost (I lost the way)." },
+            { "dutch": "Dichtbij", "english": "Close by", "pronunciation": "dicht-BEI", "example": "Is het station dichtbij?", "exampleTranslation": "Is the station close by?" },
+            { "dutch": "Ver weg", "english": "Far away", "pronunciation": "VER WEKH", "example": "Het is niet ver weg.", "exampleTranslation": "It is not far away." }
         ],
         "numbers": [
             { "dutch": "Eén", "english": "One", "pronunciation": "AYN", "example": "Eén koffie, graag.", "exampleTranslation": "One coffee, please." },
             { "dutch": "Twee", "english": "Two", "pronunciation": "TVAY", "example": "Twee euro.", "exampleTranslation": "Two euros." },
             { "dutch": "Drie", "english": "Three", "pronunciation": "DREE", "example": "Drie dagen.", "exampleTranslation": "Three days." },
+            { "dutch": "Vier", "english": "Four", "pronunciation": "VEER", "example": "Vier seizoenen.", "exampleTranslation": "Four seasons." },
+            { "dutch": "Vijf", "english": "Five", "pronunciation": "VEIF", "example": "Vijf minuten.", "exampleTranslation": "Five minutes." },
+            { "dutch": "Zes", "english": "Six", "pronunciation": "ZES", "example": "Zes eieren.", "exampleTranslation": "Six eggs." },
+            { "dutch": "Zeven", "english": "Seven", "pronunciation": "ZAY-vuh", "example": "Zeven dagen in een week.", "exampleTranslation": "Seven days in a week." },
+            { "dutch": "Acht", "english": "Eight", "pronunciation": "AKHT", "example": "Het is acht uur.", "exampleTranslation": "It is eight o'clock." },
+            { "dutch": "Negen", "english": "Nine", "pronunciation": "NAY-khuh", "example": "Negen levens.", "exampleTranslation": "Nine lives." },
             { "dutch": "Tien", "english": "Ten", "pronunciation": "TEEN", "example": "Het is tien uur.", "exampleTranslation": "It is ten o'clock." },
+            { "dutch": "Elf", "english": "Eleven", "pronunciation": "ELF", "example": "Elf spelers.", "exampleTranslation": "Eleven players." },
+            { "dutch": "Twaalf", "english": "Twelve", "pronunciation": "TWAHLF", "example": "Twaalf maanden.", "exampleTranslation": "Twelve months." },
+            { "dutch": "Twintig", "english": "Twenty", "pronunciation": "TWIN-tikh", "example": "Twintig euro.", "exampleTranslation": "Twenty euros." },
+            { "dutch": "Vijftig", "english": "Fifty", "pronunciation": "VEIF-tikh", "example": "Vijftig procent.", "exampleTranslation": "Fifty percent." },
+            { "dutch": "Honderd", "english": "Hundred", "pronunciation": "HON-dert", "example": "Honderd jaar.", "exampleTranslation": "Hundred years." },
             { "dutch": "Hoe laat is het?", "english": "What time is it?", "pronunciation": "hoo LAHT is het", "example": "Pardon, hoe laat is het?", "exampleTranslation": "Excuse me, what time is it?" },
             { "dutch": "Vandaag", "english": "Today", "pronunciation": "van-DAHGH", "example": "Vandaag is het maandag.", "exampleTranslation": "Today is Monday." },
             { "dutch": "Morgen", "english": "Tomorrow", "pronunciation": "MOR-khuh", "example": "Tot morgen!", "exampleTranslation": "See you tomorrow!" },
-            { "dutch": "De week", "english": "The week", "pronunciation": "duh WEEK", "example": "Volgende week.", "exampleTranslation": "Next week." }
+            { "dutch": "Gisteren", "english": "Yesterday", "pronunciation": "KHIS-tuh-ruh", "example": "Gisteren was ik vrij.", "exampleTranslation": "Yesterday I was free (off work)." },
+            { "dutch": "De week", "english": "The week", "pronunciation": "duh WEEK", "example": "Volgende week.", "exampleTranslation": "Next week." },
+            { "dutch": "Het jaar", "english": "The year", "pronunciation": "het YAHR", "example": "Gelukkig nieuwjaar!", "exampleTranslation": "Happy New Year!" },
+            { "dutch": "Maandag", "english": "Monday", "pronunciation": "MAHN-dakh", "example": "Op maandag werk ik.", "exampleTranslation": "On Monday I work." },
+            { "dutch": "Zondag", "english": "Sunday", "pronunciation": "ZON-dakh", "example": "Zondag is rustdag.", "exampleTranslation": "Sunday is rest day." }
         ],
         "medical": [
             { "dutch": "De dokter", "english": "The doctor", "pronunciation": "duh DOK-ter", "example": "Ik moet naar de dokter.", "exampleTranslation": "I need to go to the doctor." },
@@ -63,7 +124,15 @@ window.getVocabulary = async function (categoryId) {
             { "dutch": "Pijn", "english": "Pain", "pronunciation": "PEIN", "example": "Ik heb pijn in mijn hoofd.", "exampleTranslation": "I have a pain in my head (headache)." },
             { "dutch": "Help", "english": "Help", "pronunciation": "HELP", "example": "Help mij, alstublieft!", "exampleTranslation": "Help me, please!" },
             { "dutch": "Het ziekenhuis", "english": "The hospital", "pronunciation": "het ZEE-kuh-huis", "example": "Bel het ziekenhuis.", "exampleTranslation": "Call the hospital." },
-            { "dutch": "Koorts", "english": "Fever", "pronunciation": "KOORTS", "example": "Heeft u koorts?", "exampleTranslation": "Do you have a fever?" }
+            { "dutch": "Koorts", "english": "Fever", "pronunciation": "KOORTS", "example": "Heeft u koorts?", "exampleTranslation": "Do you have a fever?" },
+            { "dutch": "De tandarts", "english": "The dentist", "pronunciation": "duh TANT-arts", "example": "Ik ben bang voor de tandarts.", "exampleTranslation": "I am afraid of the dentist." },
+            { "dutch": "Het medicijn", "english": "The medicine", "pronunciation": "het may-dee-SEIN", "example": "Neem dit medicijn.", "exampleTranslation": "Take this medicine." },
+            { "dutch": "De ambulance", "english": "The ambulance", "pronunciation": "duh am-bu-LANS", "example": "Bel een ambulance!", "exampleTranslation": "Call an ambulance!" },
+            { "dutch": "Gezondheid", "english": "Health / Bless you", "pronunciation": "khuh-ZOND-heit", "example": "Gezondheid!", "exampleTranslation": "Bless you! (after sneezing)" },
+            { "dutch": "Moe", "english": "Tired", "pronunciation": "MOO", "example": "Ik ben erg moe.", "exampleTranslation": "I am very tired." },
+            { "dutch": "De afspraak", "english": "The appointment", "pronunciation": "duh AF-sprahk", "example": "Ik heb een afspraak om 10 uur.", "exampleTranslation": "I have an appointment at 10 o'clock." },
+            { "dutch": "Verkouden", "english": "Cold (illness)", "pronunciation": "ver-KOW-duh", "example": "Ik ben verkouden.", "exampleTranslation": "I have a cold." },
+            { "dutch": "De pleister", "english": "The plaster / band-aid", "pronunciation": "duh PLEIS-ter", "example": "Heeft u een pleister?", "exampleTranslation": "Do you have a plaster?" }
         ],
         "phrases": [
             { "dutch": "Ik spreek een beetje Nederlands.", "english": "I speak a little Dutch.", "pronunciation": "ik SPRAYK uhn BAY-tyuh NAY-der-lands", "example": "Sorry, ik spreek een beetje Nederlands.", "exampleTranslation": "Sorry, I speak a little Dutch." },
@@ -73,7 +142,14 @@ window.getVocabulary = async function (categoryId) {
             { "dutch": "Ik kom uit...", "english": "I come from...", "pronunciation": "ik kom uit", "example": "Ik kom uit Amerika.", "exampleTranslation": "I come from America." },
             { "dutch": "Hoeveel kost dit?", "english": "How much does this cost?", "pronunciation": "hoo-VEEL kost dit", "example": "Mooi shirt! Hoeveel kost dit?", "exampleTranslation": "Nice shirt! How much does this cost?" },
             { "dutch": "Ik begrijp het niet.", "english": "I don't understand.", "pronunciation": "ik buh-GREIP het neet", "example": "Kunt u langzamer praten? Ik begrijp het niet.", "exampleTranslation": "Can you speak slower? I don't understand." },
-            { "dutch": "Prettig weekend!", "english": "Have a nice weekend!", "pronunciation": "PRET-tikh WEEK-end", "example": "Tot maandag! Prettig weekend!", "exampleTranslation": "See you Monday! Have a nice weekend!" }
+            { "dutch": "Prettig weekend!", "english": "Have a nice weekend!", "pronunciation": "PRET-tikh WEEK-end", "example": "Tot maandag! Prettig weekend!", "exampleTranslation": "See you Monday! Have a nice weekend!" },
+            { "dutch": "Laat maar zitten.", "english": "Never mind / Forget it", "pronunciation": "laht mahr ZIT-tuh", "example": "Laat maar zitten, het is goed.", "exampleTranslation": "Never mind, it's fine." },
+            { "dutch": "Eet smakelijk!", "english": "Enjoy your meal!", "pronunciation": "EET SMAH-kuh-luk", "example": "Eet smakelijk allemaal!", "exampleTranslation": "Enjoy your meal everyone!" },
+            { "dutch": "Veel succes!", "english": "Good luck!", "pronunciation": "VEEL suk-SES", "example": "Veel succes met je examen.", "exampleTranslation": "Good luck with your exam." },
+            { "dutch": "Gefeliciteerd!", "english": "Congratulations!", "pronunciation": "khuh-fay-lee-see-TAYRT", "example": "Gefeliciteerd met je verjaardag!", "exampleTranslation": "Happy birthday! (Congratulations on your birthday)" },
+            { "dutch": "Wat leuk!", "english": "How nice!", "pronunciation": "wat LEUK", "example": "Ga je op vakantie? Wat leuk!", "exampleTranslation": "Are you going on vacation? How nice!" },
+            { "dutch": "Ik weet het niet.", "english": "I don't know.", "pronunciation": "ik WAYT het neet", "example": "Waar is hij? Ik weet het niet.", "exampleTranslation": "Where is he? I don't know." },
+            { "dutch": "Geen probleem.", "english": "No problem.", "pronunciation": "khayn pro-BLAYM", "example": "Bedankt! Geen probleem.", "exampleTranslation": "Thanks! No problem." }
         ]
     };
 

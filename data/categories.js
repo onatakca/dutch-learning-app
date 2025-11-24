@@ -5,7 +5,7 @@ window.categoriesData = {
             "name": "Greetings & Basics",
             "icon": "👋",
             "level": "A1",
-            "wordCount": 100,
+            "wordCount": 20,
             "progress": 0
         },
         {
@@ -13,7 +13,7 @@ window.categoriesData = {
             "name": "Grocery Shopping",
             "icon": "🛒",
             "level": "A1",
-            "wordCount": 150,
+            "wordCount": 20,
             "progress": 0
         },
         {
@@ -21,7 +21,7 @@ window.categoriesData = {
             "name": "Food & Drinks",
             "icon": "🍽️",
             "level": "A1",
-            "wordCount": 120,
+            "wordCount": 20,
             "progress": 0
         },
         {
@@ -29,7 +29,7 @@ window.categoriesData = {
             "name": "Transportation",
             "icon": "🚲",
             "level": "A2",
-            "wordCount": 100,
+            "wordCount": 20,
             "progress": 0
         },
         {
@@ -37,7 +37,7 @@ window.categoriesData = {
             "name": "Numbers & Time",
             "icon": "📅",
             "level": "A1",
-            "wordCount": 80,
+            "wordCount": 23,
             "progress": 0
         },
         {
@@ -45,7 +45,7 @@ window.categoriesData = {
             "name": "Medical & Pharmacy",
             "icon": "💊",
             "level": "A2",
-            "wordCount": 100,
+            "wordCount": 15,
             "progress": 0
         },
         {
@@ -53,7 +53,7 @@ window.categoriesData = {
             "name": "Essential Phrases",
             "icon": "💬",
             "level": "A1-A2",
-            "wordCount": 50,
+            "wordCount": 15,
             "progress": 0
         }
     ]
