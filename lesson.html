@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson - Dutch Learning App</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <style>
+        .lesson-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        .lesson-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .lesson-content {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: var(--text);
+        }
+
+        /* Content Blocks */
+        .block-heading {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin: 2.5rem 0 1rem;
+            color: var(--primary);
+        }
+
+        .block-text {
+            margin-bottom: 1.5rem;
+        }
+
+        .block-list {
+            margin-bottom: 1.5rem;
+            padding-left: 1.5rem;
+        }
+
+        .block-list li {
+            margin-bottom: 0.5rem;
+        }
+
+        .block-phrase {
+            background: var(--surface);
+            border-left: 4px solid var(--primary);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 0 12px 12px 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .phrase-content h4 {
+            font-size: 1.4rem;
+            margin-bottom: 0.25rem;
+            color: var(--text);
+        }
+
+        .phrase-content p {
+            color: var(--text-secondary);
+            font-size: 1rem;
+        }
+
+        .phrase-pronunciation {
+            font-size: 0.9rem;
+            color: var(--primary);
+            font-style: italic;
+            margin-top: 0.25rem;
+        }
+
+        .block-info-box {
+            background: rgba(59, 130, 246, 0.1);
+            /* Light Blue Tint */
+            border: 1px solid rgba(59, 130, 246, 0.2);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .dark-mode .block-info-box {
+            background: rgba(59, 130, 246, 0.15);
+        }
+
+        .info-title {
+            font-weight: 700;
+            color: #3b82f6;
+            /* Blue */
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .block-example-box {
+            background: var(--surface-hover);
+            padding: 1.5rem;
+            border-radius: 12px;
+            margin: 1.5rem 0;
+            text-align: center;
+            font-family: monospace;
+            font-size: 1.1rem;
+        }
+
+        .finish-section {
+            margin-top: 4rem;
+            text-align: center;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="app-container">
+        <header class="main-header">
+            <div class="header-left">
+                <a href="lessons.html" class="back-button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="19" y1="12" x2="5" y2="12"></line>
+                        <polyline points="12 19 5 12 12 5"></polyline>
+                    </svg>
+                </a>
+                <h1>Classroom</h1>
+            </div>
+            <button id="theme-toggle" class="icon-button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                </svg>
+            </button>
+        </header>
+
+        <main id="main-content">
+            <article class="lesson-container">
+                <div class="lesson-header">
+                    <h2 id="lesson-title">Loading...</h2>
+                    <p id="lesson-desc" class="subtitle"></p>
+                </div>
+
+                <div id="lesson-body" class="lesson-content">
+                    <!-- Dynamic Content Blocks -->
+                </div>
+
+                <div class="finish-section">
+                    <button id="finish-btn" class="cta-button">Complete Lesson</button>
+                </div>
+            </article>
+        </main>
+    </div>
+
+    <script src="data/lessons.js"></script>
+    <script src="js/audio.js"></script>
+    <script src="js/theme.js"></script>
+    <script src="js/lessons.js"></script>
+</body>
+
+</html>

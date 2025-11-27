@@ -173,12 +173,8 @@ function updateProgress() {
     progressCounter.textContent = `${currentCardIndex + 1}/${cards.length}`;
 }
 
-function playAudio(text) {
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = 'nl-NL';
-    utterance.rate = 0.9;
-    window.speechSynthesis.speak(utterance);
-}
+// playAudio is now handled by js/audio.js
+// We keep this comment to ensure the function is removed but the concept remains clear.
 
 function finishSession() {
     alert('Session Complete! Great job!');
