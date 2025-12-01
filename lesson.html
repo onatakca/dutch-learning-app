@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <style>
+        /* Modern Typography & Spacing */
         .lesson-container {
             max-width: 800px;
             margin: 0 auto;
@@ -38,12 +39,15 @@
         .block-heading {
             font-size: 1.8rem;
             font-weight: 700;
-            margin: 2.5rem 0 1rem;
+            margin: 3rem 0 1.5rem;
             color: var(--primary);
+            border-bottom: 2px solid var(--surface-hover);
+            padding-bottom: 0.5rem;
         }
 
         .block-text {
-            margin-bottom: 1.5rem;
+            margin-bottom: 2rem;
+            color: var(--text-secondary);
         }
 
         .block-list {
@@ -55,39 +59,104 @@
             margin-bottom: 0.5rem;
         }
 
-        .block-phrase {
-            background: var(--surface);
-            border-left: 4px solid var(--primary);
-            padding: 1.5rem;
+        /* Chat Style Dialogues */
+        .chat-container {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
             margin: 2rem 0;
-            border-radius: 0 12px 12px 0;
+            padding: 1.5rem;
+            background: var(--surface);
+            border-radius: 20px;
+            border: 1px solid var(--border);
+        }
+
+        .chat-message {
+            display: flex;
+            gap: 1rem;
+            align-items: flex-end;
+            max-width: 85%;
+        }
+
+        .chat-message.right {
+            align-self: flex-end;
+            flex-direction: row-reverse;
+        }
+
+        .chat-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: var(--primary);
             display: flex;
             align-items: center;
-            justify-content: space-between;
-            box-shadow: var(--shadow-sm);
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            font-size: 0.9rem;
+            flex-shrink: 0;
         }
 
-        .phrase-content h4 {
-            font-size: 1.4rem;
-            margin-bottom: 0.25rem;
-            color: var(--text);
-        }
-
-        .phrase-content p {
-            color: var(--text-secondary);
+        .chat-bubble {
+            background: var(--surface-hover);
+            padding: 1rem 1.25rem;
+            border-radius: 18px;
+            border-bottom-left-radius: 4px;
+            position: relative;
             font-size: 1rem;
         }
 
-        .phrase-pronunciation {
+        .chat-message.right .chat-bubble {
+            background: var(--primary);
+            color: white;
+            border-bottom-left-radius: 18px;
+            border-bottom-right-radius: 4px;
+        }
+
+        .chat-speaker-name {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.25rem;
+            display: block;
+        }
+
+        /* Improved Vocabulary Lists */
+        .vocab-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .vocab-item {
+            background: var(--surface);
+            padding: 1rem;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: transform 0.2s;
+            margin-bottom: 1rem;
+        }
+
+        .vocab-item:hover {
+            transform: translateY(-2px);
+            border-color: var(--primary);
+        }
+
+        .vocab-dutch {
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .vocab-english {
+            color: var(--text-secondary);
             font-size: 0.9rem;
-            color: var(--primary);
-            font-style: italic;
-            margin-top: 0.25rem;
         }
 
         .block-info-box {
             background: rgba(59, 130, 246, 0.1);
-            /* Light Blue Tint */
             border: 1px solid rgba(59, 130, 246, 0.2);
             border-radius: 12px;
             padding: 1.5rem;
@@ -101,7 +170,6 @@
         .info-title {
             font-weight: 700;
             color: #3b82f6;
-            /* Blue */
             margin-bottom: 0.5rem;
             display: flex;
             align-items: center;

@@ -1,0 +1,670 @@
+{{Dutch/Navigation|type=les|n=1|suff=|head2=Eenvoudige Gesprekken ~ Simple Conversations|t1=Simple conversations|t2=Grammar: Pronouns: I, me etc.|t3=Polite and clitic forms}}
+
+==Grammatica 1-1 ~ Grammar versus what children do==
+===Why grammar?===
+[[File:Toothbrush 20050716 004.jpg|thumb|200px|de {{knp2|tandenborstel}}]]
+Children learn their mother tongue without knowing the parts of speech such as verbs, nouns and phrases. However these are helpful for anyone attempting to learn a second language from a book or a website. Of course the children have it right: the ''best'' way to learn a language is to listen to a mother tongue speaker and simply repeat. Then just use the word in a similar situation and see how people react. Children are masters at acquiring language this way and are generally smiled at when they use a word incorrectly. Being an adult, people are often not so forgiving to you and you feel foolish when people laugh and point out to you that you just said "toothbrush"  while you meant "toothpick". Besides, native speakers may not always be available to you. Or if they are they are not eager to spend time playing 'child' with you. This book will try to compensate this by addition of audio files and visual information, -as the figure to the right- but that is still only a cumbersome substitute. We do recommend that you use them as much as you can. Firefox seems to give easier access to them than other browsers. So, please go ahead, push that arrow and learn to say 'toothbrush' properly. Your first Dutch word? Congrats.
+
+Although clearly children are superior in language acquisition, grown ups do have an advantage: they can analyze language better in terms of its grammar. This course therefore uses both approaches: it will deal with grammar, but it will also ask you to be a child and listen and repeat or look at some pictures while playing a sound clip. Don't be afraid to be a bit childish! It serves a purpose.
+
+One important observation about children should be mentioned: they always learn language ''in a certain context''.
+
+===Is it all just grammar here then?===
+'''No!''' There is much more. Audio files are inserted into the main lessons as much as possible, even though they aim at gradually introducing grammar and syntax. The parallel series of practice lessons (1A, 2A etc.) provide additional practice, vocabulary building, sound material and quizzes. The example pages (Vb. 1 etc.) follow the contextual path of learning like children do and involve nursery rhymes, poems, stories, songs and the like. And there are [[Dutch/Vocabulary|audio-visual vocabulary pages]] to help you learn more words.
+
+===What is the best way?===
+So, what is the best way to learn a language? The best way is to '''''do something everyday'''''. What you do is often less important than simply doing it. Children are champions in language acquisition and they never worry about what they do. Oh, and what you do, may very well be doing that same exercise again. Children love doing things "again". Ever watched the Teletubbies? ''Repeating'' is an important key to language acquisition. Being "efficient" and saying: "oh, I have done that before, let me skip that!" is a bad adult habit that children would never stoop to, until they get really bored with something. (Which is when they already know it). So, push that button below the toothbrush again! And tomorrow come back here and do the same.
+
+===Other assets===
+Another thing to exploit is the other languages you already know. English speakers will find many strong parallels between their language and Dutch. German speakers even more so, but there are also differences. Where possible we will try to point out the similarities and the differences and exploit them.
+
+However, as noted in the [[Dutch/Introduction|introduction]], Dutch grammar is more complex than English grammar, and identifying the meaning of words in a Dutch sentence is difficult without understanding the clues to word function that come from the grammatical rules. The basic lessons of this textbook are set up to first introduce the parts of speech, and then bring in the rules that govern these. Pay particular attention to sentence word order as you progress through the lessons.
+
+===Some tricks this course uses===
+====Hovering====
+
+Some words will be {{C|underlined|this is cribbing of course, but if you don't know a word you may}}. Try to hover your mouse over such words.
+
+====Topics and vocabulary====
+There are pages to help you build [[Dutch/Vocabulary|vocabulary]] in a visual / auditive way.
+
+====Audio files====
+Whenever you see one of the following:
+*[[file:nl-Nederlander.ogg]]
+Or:
+*{{knop|Vlaming}}
+
+Please click and listen! (If you do not see any buttons now: try a different browser. Firefox and Chrome seem to work. Internet Explorer does not.)<br/>
+After listening, pronounce the word the best you can and then click again. Keep doing that till you are satisfied with your own result. It is useful to then leave it be for, say 20 minutes and do it again. Then perhaps once more the next day.
+
+====Vocabulary / Pronunciation boxes====
+{|class="wikitable collapsible collapsed" style="float:right"
+|-
+!colspan="3"|Vocabulary
+|-
+|de {{Nlwikt|uitspraak}}||[[file:nl-uitspraak.ogg]]||pronunciation
+|-
+|de {{Nlwikt|woordenschat}}||[[file:nl-woordenschat.ogg]]||vocabulary
+|}
+For many texts there is a box on the right that you can open to look at the vocabulary being trained and listen to the pronunciations. Click it to open it and start listening and reading.
+
+===Using other sites===
+====Wiktionary====
+Throughout the texts and in the vocabulary lists there are blue links that take you to the Dutch version of [http://nl.wiktionary.org/wiki/Hoofdpagina  our sister project Wiktionary]. It is called WikiWoordenboek. Of course the layout is in Dutch and you may not immediately understand everything, but that is not a disaster. If you want to learn a language you also should learn to be a bit of a detective: you often need to get the gist of something with a few pieces of the puzzle missing. Don't let that scare you off! Here are a few useful topics used on WikiWoordenbook:
+
+#There usually is an English translation of a word under the heading '''''Vertalingen''''', marked '''Engels''' 
+#There is also a ''geluidsopname'' (sound recording) or a phonetic description under '''''Uitspraak'''''. 
+#There are tables, usually to the right giving the various forms of the word, say, the plural or the past tense.
+#There are usually example sentences putting the word in context
+#There are usually antonyms, synonyms, derivatives or related terms
+
+If you are really lost use the interwiki link to the English version (or any other language you know) as back up, but don't give in to it too easily! Use it to figure out what you did not quite get on the Dutch version.
+
+We encourage you to use the links to expand your vocabulary. First guess what a word means, then click!
+
+Just try it on the verb {{Nlwikt|slapen}}; look at the box with three forms on the right. What is the past tense? (It is the middle one in the box)
+
+====Quizlet and Memrise====
+There are plenty other sites that allow you to expand your growing knowledge of Dutch. They all have their pros and cons. For example [http://www.memrise.com/home/ Memrise]  and [https://quizlet.com/ Quizlet] have an interesting way to boost vocabulary, but teach zero syntax or grammar and usually little other context. But if you want a vocabulary boost it's great and we are in the process of creating practice sets dedicated to the material of the lessons here. Some already have a quizlet link on the bottom of the page. It is therefore recommended to register for '''Quizlet'''. (It is for free).
+
+====YouTube====
+YouTube has a plethora of videos, that we will even send you to at times. Again: good for listening, vocabulary building, often less so on grammar and syntax, but plenty of other context.
+
+====But do come back: the context====
+There is a pertinent Dutch proverb: ''Verandering van spijs doet eten''  - ''Change of food makes you eat''. Children also vary what they play with. Variety of learning is healthy. Besides children never learn a word outside context. When they learn a new word, it always goes together with the context of:
+# the words around it (semantic context), 
+# the way they interrelate (the grammatical context), 
+# the order in which they are used (the syntactic context), 
+# whether convey anger, sweetness, seriousness (the emotional context), 
+# in what kind situations it is used: a school squabble, a church service (social context), 
+# in which time period they are/were used (temporal context), 
+# by what kind of people: punks, managers, construction workers, kings, pimps, doctors (register context). 
+
+One aim of this book is to provide as much of that context as possible. This is why conversations, stories, texts, poems and songs are important: they give context to the words you are learning.
+
+So, enough talk! Let's get started. And we'll start in the context of a simple conversation
+
+==Gesprek 1-1 ~ Vrienden: Jan en Karel==
+
+We will put such text material in a colored box. What you are supposed to do with such material is the following. 
+#First click on the arrow button to ''listen'' to the story and try to read along. 
+#Then use the hover method to see an instant translation of a certain word and try to piece together the meaning of the story. 
+#Then use the ''Vocabulary'' box on the right to concentrate on single words and start memorizing. 
+#Once you have an idea of the gist of the story you can open up the drop down box and read the ''translation'' to see if you were right.
+#Then click the arrow again and see if you understand what is being said, first while reading along, then with your eyes closed.
+
+When learning a new language it is very important to be able to deduce meaning from limited information, because you will often not know all the words used. Picking up their meaning from context is an important skill. This is why the hovering is important.
+
+You may notice that Dutch sometimes strings words together a bit differently than English. Dutch word order is quite different and a difficult aspect of the language, but we will revisit that many times. So don't worry about it for the moment, just observe.
+
+{{Dutch/Textbox|
+[[Image:Dutch_Lesson1_vrienden.OGG|40px|noicon]]
+
+;{{C|Vrienden|Friends}}
+
+:{{C|Jan|John}} {{C|komt|komt tegen: run into}} {{C|Karel|Charles}} {{C|op|on, in}} {{C|straat|street}} tegen. {{C|Ze|They}} {{C|zijn|are}} {{C|vrienden|friends}}.
+
+::''Jan'': {{C|Hoi|Hi}}, Karel!  {{C|Hoe|how}} {{C|gaat|goes}} {{C|het|it}} {{C|met|with}} {{C|je|you}}?
+:::''Karel'': Hoi! {{C|Dank je|Thank you}}, {{C|met|with}} {{C|mij|me}} gaat het {{C|goed|good, well}}. {{C|En|And}} met {{C|jou|you}}?
+::''Jan'': Dank je, met mij gaat het {{C|ook|also}} goed. '''''{{C|Tot ziens|See you later}}'''''.
+:::''Karel'': Tot ziens, Jan!
+}}
+{|class="wikitable collapsible collapsed" style="float:right"
+|-
+!colspan="3"|Vocabulary
+|-
+!Word!!Audio!!Meaning
+|-
+|{{Nlwikt|tegenkomen}}||[[file:nl-tegenkomen.ogg]]||to encounter
+|-
+|de {{Nlwikt|straat}}||[[file:nl-straat.ogg]]||street
+|-
+|{{Nlwikt|ze}}||[[file:nl-ze.ogg]]||they, them, she, her
+|-
+|{{Nlwikt|zijn}}||[[file:nl-zijn.ogg]]||to be; his
+|-
+|{{Nlwikt|vrienden}}||[[file:nl-vrienden.ogg]]||friends
+|-
+|{{Nlwikt|hoe}}||[[file:nl-hoe.ogg]]||how
+|-
+|{{Nlwikt|gaat}}||[[file:nl-gaat.ogg]]||goes
+|-
+|{{Nlwikt|met}}||[[file:nl-met.ogg]]||with
+|-
+|{{Nlwikt|mij}}||[[file:nl-mij.ogg]]||me
+|-
+|{{Nlwikt|jou}}||[[file:nl-jou.ogg]]||you (obj.)
+|-
+|{{Nlwikt|dank}}||[[file:nl-dank.ogg]]||thanks, gratefulness
+|-
+|{{Nlwikt|goed}}||[[file:nl-goed.ogg]]||good, well
+|}
+[[File:Dutch people speaking on the street.jpg|thumb|200px|{{knop|vrienden}} Vrienden]]
+{{Dutch/Translation|Gesprek 1-1|
+::Friends
+:::John runs into Charles in the street. They are friends.
+:::''John'': Hello Charles. How are you?
+:::''Charles'': Hi, thank you, I'm fine. And you?
+:::''John'': Thank you, I'm doing fine as well. Goodbye.
+:::''Charles'': Goodbye John!
+}}
+
+===Pronunciation===
+Dutch pronunciation varies with region and speaker, and you may have been shocked at some of the sounds of the language. You can visit [[Dutch/Alfabet]] if that is the case. Dutch spelling is not really phonetic, but pretty systematic (much more so than English) and once you learn the system you should be able to pronounce an unknown word on sight pretty well.
+
+It is not easy to render the sounds in writing, but the following rendition in IPA gives a reasonable idea. Try running the sound file again while reading the IPA version. 
+
+:{{IPA|'vrin.də(n)}}
+:{{IPA|'jɑn.kɔmt.'ka.rəl.ɔp.'stra.'te.ɣə(n) zə.zɛɪn.vrin.də(n)}}
+::{{IPA|ɦɔj,'ka.rəl.ɦu.'ɣat.ət.'mɛ.cə}}
+::{{IPA|ɦɔj,dɑŋ.k<sup>j</sup>ə,mɛt.'mɛɪ.'ɣat.ət.xut.ʔɛn.'mɛ.'cɑʊ}}
+::{{IPA|dɑŋ.k<sup>j</sup>ə,mɛt.mɛɪ.'ɣat.ət.'ok.xut. tɔ.'tsins}}
+::{{IPA|tɔ.'tsins.jɑn}}
+
+:Notice sounds like {{IPA|[ɣ]}} and {{IPA|[x]}}? And how t+j run together into {{IPA|[c]}}? And how about {{IPA|[ɦ]}}? Or the vowel {{IPA|[u]}}? 
+:Notice also that vowels often occur in two varieties: {{IPA|a/ɑ, e/ɛ, o/ɔ}}. They are often called 'long' and 'short', but those names are misleading: they are really different sounding vowels.<ref>This is particularly a point of difficulty for speakers of Slavic languages like Russian or Czech.</ref> The length difference is rather secondary, if there is any.
+
+If you prefer other renditions than IPA try [[Dutch/Gesprek 1-1|this page]]
+
+==Grammatica 1-2 ~ Forms==
+We will use the material in the colored boxes to point at grammatical phenomena and introduce the grammar that way, step by step. 
+===Clitic forms===
+{|style="float:right"
+|{{knop|jou}} jou||{{knop|je}} je
+|}
+Did you notice the difference between "Hoe gaat het '''met ''je'''''"? and "En '''met ''jou'''''?" in the conversation?  Both translate literally into '''with ''you''''', but there is a difference in emphasis. ''Jou'' carries emphasis, ''je'' does not. In Dutch, there are often two forms of the same pronoun: a strong one and a weak ('clitic'<ref>There are other languages that show similar differences. Gaelic e.g. has ''tu'' and ''tusa''. French also has the difference between ''tu'' and ''toi'' but the usuage is a bit different than in Dutch.</ref>) one. This is particularly true in spoken, colloquial Dutch. In the written language the clitic ones are not always shown as such. 
+
+*The full forms have full vowels or diphthongs (like in j'''ou''') and can either carry stress or not.
+*The clitic forms cannot have emphasis and the vowel in a clitic is often reduced to a neutral 'schwa' [ə] (like in j''e''') or omitted entirely. 
+
+In colloquial English the same thing can be heard at times: ''seeya!'' instead of ''see you!''. In Dutch the use of clitics is very common; it already was in the Middle Dutch period before 1500.
+
+For now remember: '''never stress a clitic'''
+
+===Polite forms===
+The above conversation was between two good friends. It utilizes the '''familiar''' form of the personal pronoun (''je'', ''jou'') where English uses ''you''. However, Dutch also has a '''polite''' or formal form of the personal pronoun for the second person (you), '''[[wikt:u#Dutch|u]]'''. Many languages have this distinction. It is e.g. comparable with  {{Nlwikt|sibh}} in Gàidhlig, [[wikt:Sie|Sie]] in German,  [[wikt:vous|vous]] in French, [[wikt:usted|usted]] in Spanish, [[wikt:Вы|Вы]] in Russian, or [[wikt:anata|anata]] in Japanese. When to use one or the other is not always easy to decide. Someone unknown, particularly if older, is generally ''u'', an old friend typically ''je, jou''. The latter roughly corresponds with the 'first name basis' in English.  Notice the use of ''u'' in the conversation below that takes place between colleagues rather than close friends. They would never say: "hoi!" to each other.
+
+===Regional forms===
+
+In the South of the area where Dutch is spoken (Flanders mostly), , the familiar form when speaking in familiar fashion is ''gij'' (clitic: ''ge'', object: ''u''). ''Gij'' is mostly used when speaking dialect, although it gets used more and more in polite situations and on tv. In the north it has become obsolete since about 1800. It is used much like ''you'' in English for both singular and plural. In the North ''gij'' is now only encountered there in archaic phrases like: ''gij zult niet stelen'' - ''thou shalt not steal''. Like ''thou'' the pronoun ''gij'' takes its own verb forms. This course is mostly based on northern usage as this is the most widely accepted, including in Suriname and the Antilles, but some important differences will be pointed out and we will see ''gij'' occasionally when we look at some older poetry.
+
+==Gesprek 1-2 ~ Collega's: De handelaars==
+{|class="wikitable collapsible collapsed" style="float:right"
+|-
+!colspan="3"|Vocabulary
+|-
+|{{Nlwikt|goedendag}}||[[file:nl-goedendag.ogg]]||good day
+|-
+|de {{Nlwikt|mevrouw}}||[[file:nl-mevrouw.ogg]]||lady, mrs.
+|-
+|de {{Nlwikt|meneer}}||[[file:nl-meneer.ogg]]||sir, mr.
+|-
+|de {{Nlwikt|handelaar}}||[[file:nl-handelaar.ogg]]||merchant
+|-
+|{{Nlwikt|u}}||[[file:nl-u.ogg]]||you (polite)
+|-
+|{{Nlwikt|zeer}}||[[file:nl-zeer.ogg]]||very
+|-
+|{{Nlwikt|uit}}||[[file:nl-uit.ogg]]||out
+|-
+|{{Nlwikt|al}}||[[file:nl-al.ogg]]||already
+|-
+|{{Nlwikt|goed}}||[[file:nl-goed.ogg]]||good
+|-
+|het {{Nlwikt|bezoek}}||[[file:nl-bezoek.ogg]]||visit
+|-
+|het {{Nlwikt|Nederlands}}||[[file:nl-Nederlands.ogg]]||Dutch (language)
+|}
+Push the button and listen to the following text. It is recommended to first just listen.
+
+Then read the following conversation. It is a bit more formal than the one before. If you are not sure of the meaning of a word, hover your mouse over it, if it is underlined. A translation will pop up. Or use the vocabulary box to the right. Make sure you know the gist of the story before opening the translation box. If you cheat, you cheat yourself... Finally, listen to the recording again with your eyes closed. Can you understand what is being said?
+{{Dutch/Textbox|
+*[[Image:Dutch-Lesson1-handelaars.ogg|40px|noicon]]
+
+
+:Meneer Jansen [[wikt:nl:tegenkomen|komt]] [[wikt:nl:mevrouw|mevrouw]] De Vries [[wikt:nl:tegenkomen|tegen]]. Het zijn {{C|handelaars|business people, merchants}}.
+* ''Meneer Jansen'': {{C|Goedendag|good day}}, {{C|mevrouw|mrs}} De Vries!
+* ''Mevrouw De Vries'': Goedendag, {{C|meneer|mr.}} Jansen!
+* ''Meneer Jansen'': {{C|Hoe|how}} {{C|gaat|goes}} {{C|het|it}} {{C|met|with}} {{C|u|you (polite)}}?
+* ''Mevrouw De Vries'': {{C|Zeer|very}}<ref>De Vries is being rather stiff and formal by using 'zeer'. It is pretty dated. A more neutral register word would be 'heel'.</ref> {{C|goed|good, well}}, {{C|dank|thank}} u {{C|wel|well}}. {{C|En|and}} met u?
+* ''Meneer Jansen'': {{C|Ook|also}} goed.
+* ''Mevrouw De Vries'': {{C|Mooi|nice, pretty}}. {{C|Kent|know}} u [[wikt:nl:meneer|meneer]] Standish? {{C|Bent|are}} u {{C|hem|him}} {{C|al|already}} {{C|tegengekomen|encountered}}?
+* ''Meneer Jansen'': {{C|Uit|out of}} Engeland? {{C|Nee|no}}. Is {{C|hij|he}} {{C|op|on, at}} {{C|bezoek|visit}}?
+* ''Mevrouw De Vries'': {{C|Ja|yes}}. Hij {{C|spreekt|speaks}} {{C|Nederlands|Dutch}}. {{C|Tot ziens|See you}}, meneer Jansen!
+* ''Meneer Jansen'': Tot ziens, mevrouw De Vries.
+}}
+<br clear="all">
+:Have you figured out the gist yet? Then open the translation box to see if you were right:
+
+{{Dutch/Translation|Gesprek 1-2|
+
+:::* Mr. Johnson encounters Mrs. De Vries. They are merchants.
+:::*''Mr. Johnson'': Good day, Mrs. de Vries!
+:::*''Mrs. De Vries'' Good day, Mr. Johnson! 
+:::*''Mr. Johnson'': How do you do?
+:::*''Mrs. De Vries'' Very well, thank you. And how are you?
+:::*''Mr. Johnson'': Fine as well.
+:::*''Mrs. De Vries'': Good! Do you know Mr. Standish? Have you met him yet?
+:::*''Mr. Johnson'': From England? No, is he visiting?
+:::*''Mrs. De Vries'' Yes, he is. He speaks Dutch. Goodbye, Mr. Johnson.
+:::*''Mr. Johnson'': Goodbye, Mrs. De Vries.
+}}
+Go back to the pronunciation, close your eyes and see how much you understand now. You may have to repeat the process a few times.
+{{Dutch/Exercise|Waar of niet waar|
+
+:''dit is waar'' - this is true
+:''dit is niet waar'' - this is not true
+
+Answer the following questions with either ''waar'' or ''niet waar''
+
+# Mevrouw De Vries is meneer Standish al tegengekomen.
+# Meneer Jansen en mevrouw De Vries zijn goede vrienden.
+# Meneer Jansen en mevrouw de Vries zeggen (they say) ''je'' en ''jou'' tegen elkaar (to each other)
+# De Engelsman, meneer Standish is op bezoek.
+# Het gaat goed met meneer Jansen.
+#
+|
+
+# Mevrouw De Vries is meneer Standish al tegengekomen. - niet waar
+# Meneer Jansen en mevrouw De Vries zijn goede vrienden. - niet waar, zij zijn collega's
+# Meneer Jansen en mevrouw de Vries zeggen (they say) ''je'' en ''jou'' tegen elkaar (to each other) - niet waar, zij zeggen ''u'' tegen elkaar
+# De Engelsman, meneer Standish is op bezoek. - dit is waar
+# Het gaat goed met meneer Jansen. - waar
+}}
+
+== Quiz ==
+How are you doing so far? Do this little quiz to find out!
+
+<quiz display="simple">
+
+{ What is this? [[File:nl-tandenborstel.ogg]]
+| type="[]" }
+-toothpick
+-friend
++toothbrush
+-visit
+
+{ What is this? [[File:nl-jou.ogg]]
+| type="[]" }
+-me
+-sir
++you (object)
+-you (subject)
+
+{ Select the correct translation
+| type="[]" }
+|straat|goed|hoe|al|handelaar
+---+- already
++---- street
+----+ merchant
+-+--- good
+--+-- how
+
+</quiz>
+
+==Grammatica 1-3 ~ Introduction to pronouns==
+
+
+A '''[[Wikipedia:Pronoun|pronoun]]''' is a short word that takes the place of a noun previously mentioned in the sentence, paragraph, or conversation. 
+
+'''''Recall''''': Kent u ''meneer Standish''? Bent u ''hem'' al tegengekomen?
+
+''Hem'' refers back to ''meneer Standish''. It is a ''pronoun'' that stands ''for'' (pro- !) meneer Standish.
+
+There is a variety of pronouns like personal, possessive, relative and indefinite ones. Let's look at the personal pronouns first.
+
+===Personal pronouns===
+
+Both English and Dutch have had a system of case endings in the past, as languages like German and Russian still do today. In English most of the system fell into disuse starting with the Viking invasions of the 9th and 10th Centuries, and especially after the Norman invasion in 1066. The collapse of the system in spoken Dutch dates mostly from the 16th century and in the written language it was scrapped as recently as 1947. That means that Dutch has more remnants of the case system left than English and we will even devote [[Dutch/Lesson 15|lesson 15]] to those remnants. The personal pronouns actually still show some case differences in both languages.
+
+Personal pronouns are quite familiar in English: They are words like I,you,he,she,we,you and they. <br>At least this is the case for the subject (nominative '''''case'''''). As object (accusative) some of them are different: ''me'',you,''him'',''us'',you,''them''. Compare:
+
+::<span style="color:blue;">I</span> see you.
+::You see <span style="color:blue;">me</span>.
+
+Notice how '''I''' turns into '''me''' when used as an object. '''You''' remains the same.
+
+Much like in English, '''ik''' (subject) turns into '''mij''' as object in Dutch, whereas '''je''' remains the same in both roles:
+
+::<span style="color:blue;">Ik</span> zie je.
+::Je ziet <span style="color:blue;">mij</span>.
+
+The system in Dutch resembles the English one quite a bit, after all the languages are close relatives:
+
+*As in English there are three '''''persons''''' in Dutch grammar: first (I), second (you) and third (he) 
+*As in English there is a distinction in '''''number''''' between singular (I) and plural (we). 
+*As in English there are '''''gender''''' distinctions in the third person singular (he, she, it) 
+*As in English there are '''''case''''' distinctions between subject and object (he, him)
+
+Nevertheless the Dutch system is a little more involved, as we have seen there are:
+
+*familiar and polite forms: ''je'' versus ''u''. 
+*weak (clitics) and strong forms: ''je'' versus ''jou''.
+
+In addition there are
+# Regional differences:  (jij/jullie  - u) (North) versus (gij/gullie - u) (South) 
+# A growing rift between how inanimate and animate nouns are treated
+#:In English ''he'' and ''she'' are reserved for ''animate'' nouns -usually persons- and this is increasingly the case in Dutch as well, certainly in Northern usage. We will revisit this point later.
+# Pronominal replacement: the combination preposition + pronoun (e.g. with it) is usually replaced by an adverb
+#:We will revisit that in lesson 8
+
+Let's leave most of these complications aside for the moment and concentrate on the forms of the pronouns. There are a few more than in English.
+
+===Subject case (nominative)===
+{|class="wikitable"
+|- bgcolor=#FFDEAD
+!Person
+!singular
+!clitic
+!{{blue|English}}
+!plural
+!clitic
+!{{blue|English}}
+|-
+!1st 
+|{{knp2|ik}}||{{knop|'k}} ('k)||{{blue|I}}||{{knp2|wij}}||{{knp2|we}}||{{blue|we}}
+|-
+!2nd (fam.)
+|{{knp2|jij}}||{{knp2|je}}||rowspan="3"|{{blue|you}}||{{knp2|jullie}}||-||rowspan="3"|{{blue|you}}
+|-
+!2nd (polite)
+|{{knp2|u}}||-||{{knp2|u}}||-
+|-
+!2nd (South)
+|{{knp2|gij}}||{{knp2|ge}}||{{knp2|gij}}||{{knp2|ge}}
+|-
+!3rd
+|{{knp2|hij}}<br/> {{knp2|zij}}<br> {{knp2|het}}||{{knop|ie}} (-ie)<br/> {{knp2|ze}}<br/>{{knop|'t}} ('t)||{{blue|he}}<br/>{{blue|she}}<br/>{{blue|it}}<br/>||{{knp2|zij}}||{{knp2|ze}}||{{blue|they}}
+|}
+
+===Object case (accusative)===
+{|class="wikitable"
+|- bgcolor=#FFDEAD
+!person
+!singular
+!clitic
+!{{blue|English}}
+!plural
+!clitic
+!{{blue|English}}
+|-
+!1st 
+|{{knp2|mij}}||{{knp2|me}}||{{blue|me}}||{{knp2|ons}}|| - ||{{blue|us}}
+|-
+!2nd (fam.)
+|{{knp2|jou}}||{{knp2|je}}||rowspan="3"|{{blue|you}}||{{knp2|jullie}}|| -||rowspan="3"|{{blue|you}}
+|-
+!2nd (polite)
+|{{knp2|u}}||-||{{knp2|u}}||-
+|-
+!2nd (South)
+|{{knp2|u}}||-||{{knp2|u}}||-
+|-
+!3rd
+|{{knp2|hem}}<br> {{knp2|haar}}<br> {{knp2|het}}||{{knop|'m}}('m)<br/> {{knop|d'r}}(d'r)<br/> {{knop|'t}}('t)||{{blue|him}}<br/>{{blue|her}}<br/>{{blue|it}}<br/>||{{knp2|hen}}<br/>{{knop|hun}}hun*||{{knp2|ze}}||{{blue|them}}
+|}
+
+====Remarks====
+
+# As you see not all pronouns have clitics and some of them (shown in parentheses) are not often used in the written language.
+# *In prescriptive grammar ''hun'' is dative and hen is ''accusative''. But in speaking, Dutch speakers generally do not make this distinction. This is because the ''hen'' form was artificially created by the grammarians of the past <ref> "Dutch" by Jan G. Kooij in ''The world's major languages'' edt. Bernard Comrie {{ISBN|0-19-520521-9}} Oxford University Press 1987</ref> and in the whole rest of the language there are no other words that make a distinction between dative and accusative. In the spoken language ''hen'' and ''hun'' are often used interchangeably (as synonyms) or people avoid the issue by opting for the clitic ''ze''.
+
+==Exercises 1-1==
+===Quizlet===
+This is the point where it is '''your turn''' to put in some effort yourself, because obviously you have some memorization to do.
+
+There is a [https://quizlet.com/85109848/dutch-personal-pronouns-wikibook-lesson-1-flash-cards/ '''Quizlet practice set'''] (27 terms) to help you with memorizing the pronouns. But it is recommended to ''first'' use the above tables. Unfortunately, the pronunciation of some of the clitics with apostrophes is wrong at Quizlet.  So click the arrow buttons here to listen to the pronunciation and speak it out loud yourself until you feel confident that you know them, then go to Quizlet. Do make sure you can hear sound at Quizlet.<ref>Sometimes you need to restart your browser to make it work.</ref>First scan through the cue cards, then do some of the other methods available. It should take you an hour or so and you will know some of the most frequently used words in the language.
+
+===Pronunciation drill===
+{{Dutch/Exercise|Ik, jij, wij, jullie, mij pronunciation drill
+|
+[[Image:Nl-Dutch-ch1-pronoun-drill.ogg|noicon]]
+Push the button, repeat in the pauses and say the requested words in Dutch
+|
+}}
+===Translation exercise===
+{{Dutch/Exercise|pronouns 1: translation exercise|
+
+Translate into Dutch:
+
+# How are you, Mr. Bush?
+# How are you, Jan?
+# Are you merchants?
+# John runs into us.
+# We meet John in the street
+# He is visiting
+# We are from England
+|
+
+# How are you, Mr. Bush?
+#: Hoe gaat het met u, meneer Bos
+# How are you, Jan?
+#: Hoe gaat het met je, Jan
+# Are you merchants?
+#: Zijn jullie handelaars?
+# John runs into us.
+#: Jan komt ons tegen
+# We meet John in the street
+#: Wij komen Jan op straat tegen
+# He is visiting
+#: Hij is op bezoek
+# We are from England
+#: Wij zijn* uit Engeland
+
+:(komen* to come would be better) 
+}}
+===Identification exercise===
+{{Dutch/Exercise|pronouns 2: identification exercise|
+Identify all personal pronouns in the two above conversations (in the colored boxes) by person, case, number polite/familiar form and weak/strong form.
+:Are there any cases where the case is different from what the English translation has? Why?
+|
+Jan komt Karel op straat tegen. '''Ze''' zijn vrienden. 
+:::(3rd person plural nominative weak)
+:''Jan'': Goedendag, Karel.  Hoe gaat het met '''je'''? 
+:::(2nd person singular accusative weak)
+:''Karel'': Goedendag. Dank je, met '''mij''' gaat het goed. En met '''jou'''?
+:::(1st person singular accusative strong / 2nd person singular accusative strong)
+:''Jan'': Dank '''je''', met '''mij''' gaat het goed. Tot ziens.
+:::(2nd person singular accusative weak / 1st person singular accusative strong)
+:''Karel'': Tot ziens, Jan!
+
+In the expression ''hoe gaat het met jou'', ''jou'' is in the object case, because it follows a preposition ''met'' (with). Literally it says ''how goes it with you''. English would say: How are you? In that case ''you'' is subject, not object.
+
+:Meneer Jansen komt mevrouw De Vries tegen. '''Het''' zijn handelaars. 
+:::(3rd person singular nominative neuter) Note that Dutch often uses 'it are' to indicate generality.
+::''Meneer Jansen'': Goedendag, mevrouw De Vries!
+::''Mevrouw De Vries'': Goedendag, meneer Jansen!
+::''Meneer Jansen'': Hoe gaat het met '''u'''? 
+:::(2nd person singular accusative polite)
+::''Mevrouw De Vries'': Zeer goed, bedankt. En met '''u'''? 
+:::(same)
+::''Meneer Jansen'': Ook goed.
+::''Mevrouw De Vries'': Mooi. Bent '''u''' meneer Standish al tegengekomen? 
+:::(2nd person singular nominative polite)
+::''Meneer Jansen'': Uit Engeland? Nee. Is '''hij''' op bezoek?
+:::(3rd person singular nominative)
+::''Mevrouw De Vries'': Ja. Tot ziens, meneer Jansen!
+::''Meneer Jansen'': Tot ziens, mevrouw De Vries
+}}
+{{Dutch/Exercise|Turn into clitics
+|
+Turn the personal pronouns into their clitic forms if possible:
+
+:Jij komt hen tegen.
+:Zegt hij goedendag of hoi?
+:Zij is ook op bezoek
+:Jullie zijn goede vrienden
+:Gij zijt uit Engeland
+:Gaat het goed met jou?
+:Zij groeten mij met "hoi".
+:Het gaat goed met ons
+:U spreekt Nederlands met hen
+:Wij spreken Engels
+|
+:J'''e''' komt '''ze''' tegen.
+:Zegt-'''ie''' goedendag of hoi?
+:'''Ze''' is ook op bezoek
+:Jullie zijn goede vrienden '''no change'''
+:'''Ge''' zijt uit Engeland
+:Gaat het goed met '''je'''?
+:'''Ze''' groeten '''me''' met "hoi".
+:''''t''' Gaat goed met ons
+:U spreekt Nederlands met '''ze'''
+:'''We''' spreken Engels
+
+Notice though that you have shifted the emphasis of each sentence by doing this replacement. E.g. in "wij spreken Engels" the emphasis is mostly on ''we'' (not: you or them), in "we spreken Engels" it is mostly on English (not: e.g. Dutch)
+}}
+
+==Woordenlijst 1==
+You have already encountered quite a few words above. Now make sure you own them! Listen to their pronunciation, sort the table by English and read back to Dutch, check the pronunciation again. Click on the blue link to go to the Dutch wiktionary and try to figure out what you may. If you do not understand, follow the interwiki link to go to the English wiktionary.
+
+In short: there are many ways to use this table and you can try one thing one day and come back another to try something different.
+{|class="wikitable sortable" style="text-align:left; float:left; clear:right; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #AAAAAA; border-right-width: 1px; border-bottom-width: 1px; border-collapse: collapse; font-size: 100%;"
+! Dutch word!!audio file!!English translation
+|-
+|de {{Nlwikt|appendix}}    ||[[file:nl-appendix.ogg]] ||                appendix, supplement
+|-
+|het {{Nlwikt|bezoek}}     ||[[file:nl-bezoek.ogg]] ||                 visit, attendance
+|-
+|(het) {{Nlwikt|Engeland}}   ||[[file:nl-Engeland.ogg]] ||                 England
+|-
+|het {{Nlwikt|Nederlands}}  ||[[file:nl-Nederland.ogg]] ||                Dutch
+|-
+|de {{Nlwikt|vriend}}, vrienden  ||[[file:nl-vriend.ogg]] ||          friend, friends
+|-
+|de {{Nlwikt|handelaars}}    ||[[file:nl-handelaar.ogg]] ||              business people, businessmen, tradesmen, merchants (''pl.'')
+|-
+|het {{Nlwikt|gesprek}}, gesprekken ||[[file:nl-gesprek.ogg]] ||        conversation, conversations
+|-
+|de {{Nlwikt|grammatica}}  ||[[file:nl-grammatica.ogg]] ||                grammar
+|-
+|de {{Nlwikt|les}}     ||[[file:nl-les.ogg]] ||                    lesson
+|-
+|de {{Nlwikt|straat}}    ||[[file:nl-straat.ogg]] ||                  street
+|-
+|de {{Nlwikt|woordenlijst}}  ||[[file:nl-woordenlijst.ogg]] ||              word list
+|-
+|de {{Nlwikt|woordenschat}}  ||[[file:nl-woordenschat.ogg]] ||              vocabulary
+|-
+| {{Nlwikt|op}} {{Nlwikt|straat}}   ||[[file:nl-straat.ogg]] ||                on (in) the street
+|-
+| {{Nlwikt|tot}} {{Nlwikt|ziens}}   ||[[file:nl-tot ziens.ogg]] ||                goodbye (''lit'': see you again)
+|-
+| {{Nlwikt|uit}} Engeland ||[[file:nl-uit.ogg]] ||               from England
+|-
+| Met mij gaat het goed || ||      I am fine (''lit'': With me goes it well)
+|-
+| {{Nlwikt|goedendag}}! ||[[file:nl-goedendag.ogg]] ||                 Good day (greeting)
+|-
+|(de) {{Nlwikt|dag}}!   ||[[file:nl-dag.ogg]] ||                     (Good) day! Hi! Hello!
+|-
+| {{Nlwikt|goed}} ||[[file:nl-goed.ogg]] ||                       good
+|-
+| En met jou? ||[[file:nl-jou.ogg]] ||                And how are you? (''lit'': And with you?)
+|-
+| Hoe gaat het met jou (u)?|| ||   How are you (''lit'': How goes it with you?)
+|-
+| {{Nlwikt|hoe}}  ||[[file:nl-hoe.ogg]] ||                       how
+|-
+| {{Nlwikt|gaan}} ||[[file:nl-gaan.ogg]] ||                       to go
+|-
+| {{Nlwikt|het}} {{Nlwikt|gaat}} ||[[file:nl-gaat.ogg]] ||                   it goes
+|-
+| {{Nlwikt|met}} ||[[file:nl-met.ogg]] ||                        with
+|-
+| is op {{Nlwikt|bezoek}} ||[[file:nl-bezoek.ogg]] ||               is visiting 
+|-
+| {{Nlwikt|tegenkomen}} ||[[file:nl-tegenkomen.ogg]] ||                 to meet, come across, encounter, run into
+|-
+| komt ... tegen|| ||              comes across , runs into, meets
+|-
+| {{Nlwikt|bezoeken}} ||[[file:nl-bezoeken.ogg]] ||                   to visit
+|-
+| {{Nlwikt|maar}} ||[[file:nl-maar.ogg]] ||                       but, however
+|-
+| {{Nlwikt|ook}} ||[[file:nl-ook.ogg]] ||                        also, too, as well
+|-
+| {{Nlwikt|dank}} je, dank u.|| ||            thank you;
+|-
+| {{Nlwikt|bedankt}} ||[[file:nl-bedankt.ogg]] ||                    thanks
+|-
+| {{Nlwikt|simpel}} ||[[file:nl-simpel.ogg]] ||                     simple
+|-
+| {{Nlwikt|het}} ||[[file:nl-het.ogg]] ||                        it (pronoun)
+|-
+| {{Nlwikt|mevrouw}} ||[[file:nl-mevrouw.ogg]] ||                    Ms., Miss, or Mrs.
+|-
+| {{Nlwikt|meneer}}  ||[[file:nl-meneer.ogg]] ||                    Mr.
+|-
+| {{Nlwikt|mij}}||[[file:nl-mij.ogg]] ||                         me
+|-
+| {{Nlwikt|nee}} ||[[file:nl-nee.ogg]] ||                        no
+|-
+| {{Nlwikt|ja}}  ||[[file:nl-ja.ogg]] ||                        yes
+|-
+| {{Nlwikt|correct}} ||[[file:nl-correct.ogg]] ||                    correct
+|-
+| {{Nlwikt|al}}  ||[[file:nl-al.ogg]] ||                        already, yet
+|-
+| {{Nlwikt|mooi}} ||[[file:nl-mooi.ogg]] ||                       beautiful (in this case, 'nice' or 'fine')
+|-
+| {{Nlwikt|zeer}}||[[file:nl-zeer.ogg]] ||                        very
+|-
+| {{Nlwikt|en}}   ||[[file:nl-en.ogg]] ||                       and 
+|}
+<br clear="all">
+
+===Quizlet===
+The vocabulary of this lesson can be trained at [https://quizlet.com/85125945/dutch-wikibook-vocabulary-lesson-1-flash-cards/ Quizlet]. (33 terms)
+
+===Your turn! Building vocabulary 1===
+
+When learning a language you need to start building up your vocabulary. There are various ways of doing that. One is to study the above conversations well. Often words are easier to remember when put in context. We will add vocabulary building exercises to each lesson to make it easier for you to memorize it all.
+
+{{Dutch/Exercise|vocabulary
+|
+Go to [[Dutch/Vocabulary/Personal pronouns/hover test]] to check your knowledge of Dutch personal pronouns.<br>
+Go to [[Dutch/Vocabulary/Lesson 1/hover test]] to check your knowledge of the above vocabulary.
+|
+}}
+{{Dutch/Exercise|Additional vocabulary|
+ 
+Go to the [[Dutch/Vocabulary/Survival kit]] to learn the 56 most important words in the Dutch language. The same set has been created at [https://quizlet.com/84964137/survival-kit-of-56-most-common-dutch-words-flash-cards/ Quizlet] if you prefer to use their methods. Once you know them all, try to translate the following:
+#Wil jij misschien een vrouw?
+#Dit is erg slecht, denk ik.
+#Na het leven is er de dood
+#Ik hoor hier mensen beneden 
+#Er is een tijd en een plaats voor alle dingen
+#Goed en slecht, klein en groot, kort en lang zijn niet dezelfde dingen
+#Zet een klein deel voor, een ander deel achter , iets meer boven en de rest beneden
+|
+
+#Do you want a woman perhaps?
+#That is very bad, I think
+#After life there is death
+#I hear people down here
+#There is a time and a place for all things
+#Good and bad, small and big, short and long are not the same things
+#Put a small part in front, another part behind, a bit more on top and the rest below.
+}}
+
+==Progress made==
+If you have studied the above well, you should
+#Know more about the process of language acquisition. This should allow you to tailor your own learning better to your specific needs and preferences
+#Started tuning your ears and your mouth to the pronunciation
+#Gained vocabulary: 27 pronouns, 33 terms introduced in the lesson, 56 of the most often used words in the language, '''116''' terms in total.
+#Learned about the use of personal pronouns, including their clitic, polite and regional forms.
+
+==Further practice==
+This lesson is accompanied by two pages that are intended to practice and reinforce what you have learned above. They do that with a bit different approach
+
+* [[Dutch/Lesson 1A|Les 1A]] will give you more conversations and practice.
+* [[Dutch/Example 1|Voorbeeld 1]] uses the simplest pieces of literature: nursery rhymes to teach language in a playful and amusing way.
+
+It is recommended that you first work on the material in these two modules before you move on to lesson two, but of course this depends on your level of understanding and one of the nice things about the wiki-system is that one can use it whichever way you see fit. (Which is what children would do, but they are used to running into new things that they do not fully comprehend.)
+
+==Appendix==
+<small><< [[Dutch/Introduction|Lesson Layout Guide]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Dutch/Alfabet|Pronunciation Guide]] >> </small>
+{{BookCat}}
+<references/>

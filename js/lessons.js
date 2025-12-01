@@ -66,7 +66,21 @@ function initLessonViewer() {
 function renderBlock(block) {
     switch (block.type) {
         case 'text':
-            return `<p class="block-text">${block.content}</p>`;
+            // Check if this text block looks like a dialogue
+            // Pattern: "Name: Message" or "Name: Message" lines
+            if (block.content.includes(":") && (block.content.includes("Jan") || block.content.includes("Karel") || block.content.includes("Meneer") || block.content.includes("Mevrouw"))) {
+                return renderDialogue(block.content);
+            }
+            // Clean up Wikitext artifacts
+            let cleanContent = block.content
+                .replace(/'''/g, '<strong>')
+                .replace(/''/g, '</strong>') // Close bold
+                .replace(/''/g, '<em>')
+                .replace(/''/g, '</em>') // Close italic - simple heuristic
+                .replace(/\[\[.*?\|(.*?)\]\]/g, '$1') // Links [[url|text]] -> text
+                .replace(/\[\[(.*?)\]\]/g, '$1'); // Links [[text]] -> text
+
+            return `<p class="block-text">${cleanContent}</p>`;
 
         case 'heading':
             return `<h3 class="block-heading">${block.content}</h3>`;
@@ -79,14 +93,13 @@ function renderBlock(block) {
             // Escape quotes for the onclick handler
             const safeText = block.dutch.replace(/'/g, "\\'");
             return `
-                <div class="block-phrase">
-                    <div class="phrase-content">
-                        <h4>${block.dutch}</h4>
-                        <p>${block.english}</p>
-                        ${block.pronunciation ? `<p class="phrase-pronunciation">${block.pronunciation}</p>` : ''}
+                <div class="vocab-item">
+                    <div>
+                        <div class="vocab-dutch">${block.dutch}</div>
+                        <div class="vocab-english">${block.english}</div>
                     </div>
-                    <button class="icon-button audio-btn" onclick="playAudio('${safeText}', '${block.audio || ''}')">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+                    <button class="icon-button audio-btn" onclick="playAudio('${safeText}')">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
                     </button>
                 </div>
             `;
@@ -113,4 +126,40 @@ function renderBlock(block) {
         default:
             return '';
     }
+}
+
+function renderDialogue(content) {
+    const lines = content.split('\n');
+    let html = '<div class="chat-container">';
+
+    lines.forEach(line => {
+        // Try to split by first colon to get speaker
+        const parts = line.split(':');
+        if (parts.length > 1) {
+            let speaker = parts[0].replace(/[*:]/g, '').trim();
+            let message = parts.slice(1).join(':').trim();
+
+            // Clean message
+            message = message.replace(/'''/g, '').replace(/''/g, '');
+
+            if (speaker && message) {
+                // Determine side based on speaker (heuristic)
+                const isRight = ['Jan', 'Meneer Jansen'].some(s => speaker.includes(s));
+                const avatar = speaker.substring(0, 2).toUpperCase();
+
+                html += `
+                    <div class="chat-message ${isRight ? 'right' : ''}">
+                        <div class="chat-avatar">${avatar}</div>
+                        <div>
+                            <span class="chat-speaker-name">${speaker}</span>
+                            <div class="chat-bubble">${message}</div>
+                        </div>
+                    </div>
+                `;
+            }
+        }
+    });
+
+    html += '</div>';
+    return html;
 }

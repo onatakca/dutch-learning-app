@@ -1,0 +1,516 @@
+{{Dutch/Navigation|type=les|n=3|suff=|head2=De Getallen ~ The Numbers|t1=Counting to twelve|t2=Voetballen|t3=Syntax: Inversion|t4=Gammar: Nouns and gender}}
+
+==Gesprek 3-1==
+
+Mam teaches her toddler, Jeroen to count:
+{{Dutch/Textbox|
+[[Image:Nl-Dutch-gesprek-3-1.ogg|40px|noicon]]
+
+:''Mam'': Hoeveel vingertjes heb je, Jeroen?
+:''Jeroen'': een, twee, drie, vier, vijf.
+:''Mam'': en je andere hand?
+:''Jeroen'': ook vijf!
+:''Mam'': Ja, tel ze maar: zes, zeven, acht, negen en tien
+}}
+{{Dutch/Translation|Gesprek 3-1|
+* How many little fingers do you have, Jerome?
+* One, two, three , four, five.
+* And your other hand?
+* Five too!
+* Yes, but do count them: six, seven, eight, nine and ten
+}}
+
+==Leren 3 ~ Tellen van 1 tot 12==
+In Dutch, as in English, there are both '''ordinal''' and '''cardinal''' numbers, and number formation is similar in that the first twelve numbers are unique. Above twelve, numbers are formed by combination. For example, 15 is ''vijftien'' and 16 is ''zestien''. Other numbers will be the subject of more advanced lessons.
+
+Note in the table how ordinals are formed from the cardinals in Dutch by adding '''''-de'''''. 'Ten' becomes 'tenth' in English; '''''tien''''' become '''''tiende''''' in Dutch. As in English, there are several variants: ''eerste'', ''derde'', and ''achtste''.  
+
+{| class="wikitable"
+| rowspan="2" | '''hoofdtelwoorden'''<br>'''cardinal numbers'''
+| one&nbsp;
+|two
+|three
+|four
+|five
+|six
+|seven
+|eight
+|nine
+|ten
+|eleven
+|twelve
+|-
+|{{knp2|één}}&nbsp;
+|{{knp2|twee}}
+|{{knp2|drie}}
+|{{knp2|vier}}
+|{{knp2|vijf}}
+|{{knp2|zes}}
+|{{knp2|zeven}}
+|{{knp2|acht}}
+|{{knp2|negen}}
+|{{knp2|tien}}
+|{{knp2|elf}}
+|{{knp2|twaalf}}
+|-
+| rowspan="2" | '''rangtelwoorden'''<br>'''ordinal numbers'''
+|1st&nbsp;
+|2nd
+|3rd
+|4th
+|5th
+|6th
+|7th
+|8th
+|9th
+|10th
+|11th
+|12th
+|-
+|{{knp2|eerste}}&nbsp;
+|{{knp2|tweede}}
+|{{knp2|derde}}
+|{{knp2|vierde}}
+|{{knp2|vijfde}}
+|{{knp2|zesde}}
+|{{knp2|zevende}}
+|{{knp2|achtste}}
+|{{knp2|negende}}
+|{{knp2|tiende}}
+|{{knp2|elfde}}
+|{{knp2|twaalfde}}
+|}
+Remark: '''een''' is used both as an indefinite article (''a'' or ''an'') and a number (''one''). One often puts accents on the e's when ''one'' is meant in case of ambiguity: '''één'''. In Dutch spelling such accents are allowed but only if otherwise ambiguity would arise. There is also a difference in pronunciation: /ən/ ([[Wikipedia:en:schwa|schwa]]-n) for the article and /e:n/ (ayn) for the number.
+
+{|
+|{{knp2|één}}<br />numeral||{{knop|een2}} een<br /> article
+|}
+===Arithmetic===
+{{Dutch/Vocab-box|
+|h1=d|w1=plus|t1= plus sign
+|h2=d|w2=min|t2= negative, minus sign
+|h3=d|w3=maal|t3= time(s), multiplied by
+}}
+:Addition: twee ''plus'' drie is vijf. -- 2 + 3 = 5
+:Subtraction: acht ''min'' drie is vijf. -- 8 - 3 = 5
+:Multiplication: twee ''maal'' vier is acht. -- 2 x 4 = 8
+
+===Eerst en laatst===
+The ordinals are a special kind of adjectives. They always have the inflection -e. So, words like *zesd do not exist. The only exception is ''eerst''. As in English, it can be used as an adverb:
+
+:Hij gaat ''eerst'' naar huis - he ''first'' goes home
+
+Its opposite (antonym) is ''laatst'' as adverb and ''laatste'' as adjective:
+
+:de laatste trein - the last train.
+
+{|
+|{{knp2|eerst}}||{{knp2|laatst}}
+|}
+
+==Pronunciation drills 3-1. Your turn to say something- Uw beurt om iets te zeggen!!==
+{{Dutch/Exercise|Listen and speak
+|Repeat the pronunciation in the pauses:
+# {{Audio|Nl-12345.ogg|listen to the numbers 5-4-3-2-1}}
+# {{Audio|Nl-678910.ogg|listen to the numbers 10-9-8-7-6}}
+# {{Audio|Nl-Dutch-numerals-drill.ogg|translate English numerals into Dutch}}
+# {{Audio|Nl-Dutch-ordinals.ogg|listen to the ordinals 5th-1st}}
+|
+A good trick is to do an exercise twice and repeat it after 20 minutes or so again. Then do it the next day again.
+}}
+
+==Grammatica 3-1 ~ Telling time (hours)==
+Knowing the numbers from 1 to 12, you can now begin asking and telling time in Dutch.
+
+===Gesprek 3-2===
+{{Dutch/Textbox|
+[[Image:Nl-Dutch-gesprek-3-2.ogg|40px|noicon]]
+
+Twee jongens, Hendrik en Karel, zijn vrienden. Op een {{C|middag|afternoon}} komen ze {{C|elkaar|each other}} tegen.
+* ''Hendrik'': Karel. {{C|Hoe gaat het|How are you}}?
+* ''Karel'': Hallo!
+* ''Hendrik'': Wil je {{C|voetballen|play soccer}}?
+* ''Karel'': {{C|Graag|with pleasure}}, maar {{C|hoe|how}} {{C|laat|late}} is het?
+* ''Hendrik'': Het is {{C|één uur|one o'clock}}.
+* ''Karel'': {{C|Dan|then}} kan ik {{C|nog|still}} {{C|tot|till}} {{C|twee uur|two o'clock}} {{C|spelen|play}}.
+* ''Hendrik'': Dat is goed. We spelen nog een {{C|uur|hour}} lang!
+* ''Karel'': Ja, En {{C|daarna|after that}} {{C|breng|take}} {{C|je|you}} me {{C|op je motor|on your motorbike}} {{C|naar|to}} {{C|huis|home}}.
+}}
+{|class="wikitable collapsible collapsed" style="float:right"
+|-
+!colspan="3"|Vocabulary
+|-
+|het {{Nlwikt|voetbal}}||[[file:nl-voetbal.ogg]]||soccer (the game)
+|-
+|de {{Nlwikt|voetbal}}||[[file:nl-voetbal.ogg]]||soccer ball
+|-
+|{{Nlwikt|laat}}||[[file:nl-laat.ogg]]||late
+|-
+|het {{Nlwikt|uur}}||[[file:nl-uur.ogg]]||hour; o'clock
+|-
+|{{Nlwikt|spelen}}||[[file:nl-spelen.ogg]]||to play
+|-
+|{{Nlwikt|daarna}}||[[file:nl-daarna.ogg]]||after that
+|-
+|de {{Nlwikt|motor}}||[[file:nl-motor.ogg]]||motorbike
+|}
+[[Image:Onze-Lieve-Vrouwekathedraal toren gezien vanaf Linkeroever.JPG|thumb|160px|<small>''De {{C|klokkentoren|clock tower}} van Antwerpen''</small>]]
+{{Dutch/Translation|Gesprek 3-2|
+Two guys, Henry and Charley, are friends. They meet one afternoon.
+* ''Henry'': Charley. How are you?
+* ''Charley'': Hi!
+* ''Henry'': Do you want to play soccer?
+* ''Charley'': I'd love to, but what time is it? (lit.: How late is it?)
+* ''Henry'': It is one o'clock
+* ''Charley'': Then I can still play until two o'clock.
+* ''Henry'': That's all right. We can play for another hour
+* ''Charley'': Yes, and then you take me home on your motorbike.
+}}
+{{Dutch/Exercise|waar of niet waar
+|
+# Hendrik en Karel zijn vrienden maar zeggen u tegen elkaar
+# Zij spelen graag voetbal
+# Karel kan nog twee uur voetballen
+# Het is één uur als zij elkaar tegenkomen
+# Hendrik heeft een motor.
+|
+# Hendrik en Karel zijn vrienden maar zeggen u tegen elkaar - niet waar, zij zeggen jij en jou.
+# Zij spelen graag voetbal - waar
+# Karel kan nog twee uur voetballen -niet waar, hij kan maar één uur lang spelen
+# Het is één uur als zij elkaar tegenkomen - waar
+# Hendrik heeft een motor. - waar
+}}
+[[Image:Nl-Dutch-grammatica-3-1.ogg|40px|noicon]]
+Asking for the time is accomplished by the sentence:
+:''Hoe laat is het?'' ("What time is it?", ''lit''. "How late is it?").
+
+The answer is:
+: ''Het is ____ uur'' - "It is ____ o'clock", substituting the correct cardinal value.
+
+===Half en kwart===
+{|
+|[[file:nl-icon-half-vier.svg|thumb|left|200px|{{knop|half vier}} Halfvier]]
+|[[file:nl-icon-kwart-over-drie.svg|thumb|left|200px|{{knop|kwart over drie}} Kwart over drie*]]
+|[[file:nl-icon-kwar-voor-vier.svg|thumb|left|200px|{{knop|kwart voor vier}} Kwart voor vier]]
+|}
+<nowiki>*</nowiki>In Flanders kwart '''na'''        is also used. (meaning a quarter '''past''' as opposed to '''over''' the hour)
+
+The half hours are indicated differently in Dutch:
+
+:het is '''''halfvier''''' - '''''3''''':30
+::it is half past ''3''
+
+The quarter hours are similar
+:{{knp2|het is kwart over drie}} - 3:15
+:{{knp2|het is kwart voor vier}} - 3:45
+
+{{Dutch/Exercise| de tijd
+|
+Answer the question:
+:''Hoe laat is het?''
+# 7:15
+# 11:45
+# 2:30
+# 1:00
+# 12:15
+# 12:00
+# 6:45
+# 4:00
+|
+# 7:15 - het is kwart over zeven
+# 11:45 - het is kwart voor twaalf
+# 2:30 - het is halfdrie
+# 1:00 - het is één uur
+# 12:15 - het is kwart over twaalf
+# 12:00 - het is twaalf uur
+# 6:45 - het is kwart voor zeven
+# 4:00 - het is vier uur
+}}
+
+For more on time telling, have look at the practice lesson [[Dutch/Lesson 3A|3A]].
+
+==Syntax 3-1 ~ Some more word order: inversion==
+
+We have seen that inversion of subject and verb is used to create a question:
+
+:{{knop|het is twee uur}}'''Het is''' twee uur
+:{{knop|hoe laat is het}}Hoe laat '''is het'''?
+
+However, recall from the conversation that inversion happens for other reasons.
+
+:...daarna ''breng je''...
+:...''op een middag komen ze''...
+
+These are not questions, still there is inversion. The reason is that the adverb ''daarna'' or the adverbial expression ''op een middag'' was put before the ''subject'' + ''verb'' part for '''''emphasis'''''. This causes inversion. We could also have said:
+
+:Jij brengt mij daarna op je motor naar huis.
+:Zij komen elkaar op een middag tegen.
+
+Notice that the verb loses final -t when using the informal second person jij or je in such cases as it does in questions:
+
+:jij brengt - breng je
+
+{{Dutch/Exercise|inversion for emphasis
+|
+The following sentences end in an adverbial expression like ''in the morning''. Put this expression a the front of the sentence for emphasis. Be sure to use clitics when appropriate and not when not.
+
+# wij voetballen niet ''op straat''.
+# hij komt ''om twee uur''
+# het gaat goed ''met je''
+# het rode huis staat ''op de hoek''
+# hij heet ''Jan van 't Hoff''
+# wij brengen jou niet ''met de motor'' naar huis
+|
+# ''op straat'' voetballen we niet .
+# ''om twee uur'' komt hij.
+# met jou gaat het goed
+# ''op de hoek'' staat het rode huis
+# ''Jan van 't Hoff'' heet hij
+# ''met de motor'' brengen we je niet naar huis
+}}
+
+==Grammatica 3-3 ~ Introduction to ''naamwoorden''==
+
+Dutch grammar uses the word ''naamwoord'' (''lit.'' name-word) that does not translate well into English. ''Naamwoorden'' indicates a rather broad class of words, both independently used (like nouns) or used to specify another word (like adjectives). Dutch grammar is therefore structured a bit differently from the English one. Besides ''naamwoorden'' there are two other large classes of words in Dutch: ''werkwoorden'' (verbs) and ''bijwoorden'' (adverbs).
+
+A '''[[Wikipedia:en:Noun|noun]]''' is a fundamental part of speech, occurring in sentences in two different ways: as subjects (performers of action), or objects (recipients of action). As a generality, a noun is the name of a "person, place, thing or concept".
+
+Nouns are classified into
+# proper nouns (''eigennamen''): e.g. "Janet"
+# common nouns (''zelfstandige naamwoorden''): e.g. "girl"
+# cardinals (''telwoorden''): e.g. one, two, three, etc.
+# pronouns (''voornaamwoorden''): e.g. "she", "her"
+
+The latter group is often considered a separate class of words. They stand in for (pro-, voor-) nouns. Words like "hij" - "he" are known as personal pronouns (''persoonlijke voornaamwoorden'')
+
+Dutch has its own grammatical nomenclature and to use dictionaries and grammars it is useful to know it.
+
+Noun is rendered as ''zelfstandig naamwoord'' ('nameword that stands on itself'). An adjective is called ''bijvoeglijk naamwoord'' (nameword that can be added). ''Naamwoord'' is more general than noun. It derives from the Latin term ''nomen'': nomen substantivum (zelfstandig naamwoord) and nomen adiectivum (bijvoeglijk naamwoord).
+
+Adjectives are usually added to nouns to further determine them:
+
+:"mooi" weer
+:"beautiful" weather
+
+Some pronouns, e.g. possessive pronouns (''bezittelijk voornaamwoord'') are used as adjectives:
+
+:"mijn" auto
+:"my" car
+
+A special class of adjectives is formed by the articles (''lidwoorden''):
+
+:"the" car
+:"de" auto
+
+===Gender of Nouns===
+We have seen evidence of word gender in the pronouns we have been encountering; notably 'he', 'she', and 'it' in English and '''''hij''''', '''''zij''''', and '''''het''''' in Dutch. We also saw that adjectives depend on gender in Dutch.
+
+There are a few rules that help to determine a noun's gender, but mostly it must be learned as children do: word by word.
+
+Noun gender is also reflected in the ''definite article'' It should always be learned as ''part of the noun'', as this is a good way to memorize gender.
+
+===Definite Articles===
+Definite articles are equivalent to an English 'the', and the two basic gender forms in Dutch are as follows:
+
+:'''het''': neuter singular (pronounce /hEt/, "h-eh-t")
+:'''de''': (pronounce /də/) all other cases
+
+====Animate nouns====
+
+Much like in English there are three genders for animate nouns (people, pets etc.) and this shows up clearly in their personal pronouns: ''hij, zij and het'' (he, she and it) and their possessive pronouns ''zijn, haar and zijn'' (his, her, its):
+[[File:Nl-eenmanenzijnhond.ogg|noicon|40px]]
+:To say 'the man' in Dutch, you would say '''''de man''''', because ''man'' is a '''masculine''' noun.
+::You refer to ''de man'' with ''hij'' (he): '''''Hij''' is een man''. ''Een man en '''zijn''' (his) hond'' - "He is a man. A man and his dog"
+:To say 'the woman' in Dutch, you would say '''''de vrouw''''', because ''vrouw'' is a '''feminine''' noun.
+::You would say: '''''Zij''' (she) is een vrouw''. ''Een vrouw en '''haar''' (her) werk'' -"She is a woman. A woman and her work."
+:To say 'the calf' in Dutch, you would say '''het kalf''', because ''kalf'' is a '''neuter''' noun.
+::You would say: '''''Het''' (it) is een kalf''. ''Een kalf en '''zijn''' (its) stal'' - "It is a calf. A calf and its stable"
+
+However, ''zijn'' is not used much anymore to refer to a neuter word and we will see a different way of expressing "its" later.
+
+In the plural the gender distinctions are absent: ''de mannen, de vrouwen, de kalveren'' are all referred to by ''zij'' (they) and ''hun'' (their).
+
+As you see the definite article is the same for masculine and feminine, but it is not just definite articles, but also adjectives and pronouns that must match the gender of the noun they are related to.
+
+====Inanimate nouns====
+[[File:Map of the Netherlands highlighting the Great Rivers.svg|thumb|Map of the Netherlands highlighting the Great Rivers|250px]]
+In the Netherlands (the North) the distinction between masculine and feminine was lost for ''inanimate'' nouns (things, concepts etc.) in the 17th century. The feminine and the masculine have merged into a ''common'' gender north of ''de grote riveren'' (the Great Rivers: the Meuse, the Rhine and its branches) almost entirely. Someone learning the language therefore best considers Dutch a '''''two-gender language''''' for anything but persons:
+[[File:Nl-deklokhetboek.ogg|noicon|40px]]
+:the clock is ''de klok'', because it is ''common gender''
+:the book is ''het boek'', because it is ''neuter gender''
+
+This does not hold for the South, where a "de klok" may still be referred to as "zij" (she), but it is acceptable standard Dutch to disregard the masculine-feminine distinction.
+
+By contrast, the twofold split common-neuter is still very much alive in Dutch and this must be mastered by any beginner to learn the language well. Therefore, it is important when learning Dutch nouns to always learn them '''together''' with their correct '''definite article'''. That is:
+:: Memorize the word for 'book' in Dutch as '''''het''' boek'', not simply ''boek''.
+:: Memorize the word for 'clock' in Dutch as '''''de''' klok'', not simply ''klok''.
+
+This is by far the most important thing you should do right now. The fine distinctions between the varieties of the language can wait.
+
+====Referring to inanimate common gender====
+
+As we saw above the personal pronouns (hij,zij,het) still show the three-gender distinction that Dutch inherited from its Indoeuropean ancestry. That makes it hard to use personal pronouns for an inanimate common gender word. In the South ''de klok'' may still be called a ''she'', but Northerners avoid such references and so should you. Strictly speaking it would be correct for Northerners to call a clock a "he", but they often avoid that as well.<ref>For three centuries they have been chided and ridiculed by grammarians, school teachers and Southerners for not knowing whether a noun is masculine or feminine. Grammarians and school teachers have finally given up on that since 1947, but now insist that ''hij'' should be used for ''de klok''. Northerners have a long history of ignoring them and will stick to avoiding both hij and zij.</ref> Nowadays ''hij'' and ''zij'' are pretty much restricted to people or their pets, so they indicate ''natural'' rather than ''grammatical'' gender, certainly in the North. Notice that Northerners cannot resort to ''het'' (it) as done in English, because ''de klok'' is '''not''' neuter...
+
+This leaves roughly two thirds of all inanimate nouns without a personal pronoun to refer them by. For possessive pronouns (his, her, its) a similar problem exists.
+
+We shall see three common ways that speakers use to avoid inanimate hij/zij references:
+* [[Dutch/Lesson 4#Using demonstrative pronouns instead of personal pronouns|using demonstratives]]
+* [[Dutch/Lesson 8#Grammatica 8. Er and the pronominal adverbs|using pronominal adverbs]]
+* [[Dutch/Lesson 7#Grammatica 7.2 Diminutives|using diminutives (always neuter)]]
+
+These three aspects of the language have come to play a more prominent role in Dutch than they do in English. One could say that the merger of m/f into common gender<ref>together with the often punitive nature of the imposition of prescriptive grammar</ref> has triggered a number of shifts in the language, that for example German or English do not have and must be mastered to speak Dutch well.
+
+===Rules for gender===
+
+There are a few general (and helpful) rules for gender:
+
+# Diminutives are neuter: de klok → het klokje
+# Words in -ing, -heid, -teit, -te carry ''de''. (they are actually feminine, but do not worry about that).
+# Loans usually retain their gender: (''Latin'') museum → het museum (both neuter).
+
+Another helpful fact is that all genders behave the same in the plural, all use ''de'', ''die'', ''zij'' etc.
+
+Apart from these general rules, nouns should be memorized '''''together with their definite article'''''. So, learn "de klok", not just "klok" and "het paard" not just "paard"
+
+===Double gender===
+
+There is an interesting group of words for which the natural gender is in conflict with the grammatical gender, e.g. diminutives of people:
+
+:The girl: ''het meisje''
+:The (little) boy: ''het jongetje''
+
+Grammatically they are neuter and their articles, adjectives and demonstratives follow the neuter pattern. However the personal and possessive pronouns follow the natural gender:
+
+: Een mooi (n!) meisje en ''haar'' (f!) [[wikt:en:moeder|moeder]]
+: Dat (n!) jongetje? Hij (m!) is niet hier
+
+{{Dutch/Exercise|naamwoorden
+|
+Translate the following grammatical terms and find an example of each in Dutch
+* naamwoord
+** zelfstandig naamwoord
+*** eigennaam
+*** persoonlijk voornaamwoord
+*** hoofdtelwoord
+** bijvoeglijk naamwoord
+*** lidwoord
+*** bezittelijk voornaamwoord
+*** rangtelwoord
+|
+* noun/adjective:
+** noun: "auto", "huis"
+*** proper noun: "Jan"
+*** personal pronoun: "ik"
+*** numeral: "twaalf"
+** adjective: "mooi"
+*** article: "de, het, een"
+*** possesive pronoun: "mijn"
+*** ordinal: "tweede"
+}}
+
+==Woordenlijst 3==
+{|class="wikitable sortable" style="text-align:left; float:left; clear:right; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #AAAAAA; border-right-width: 1px; border-bottom-width: 1px; border-collapse: collapse; font-size: 100%;"
+! Dutch word!!audio file!!English translation
+|-
+|het boek|| {{audio|nl-boek.ogg|boek}}||          book
+|-
+|het getal, de getallen|| {{audio|nl-getal.ogg|getal}}||   number, numbers
+|-
+|het huis|| {{audio|nl-huis.ogg|huis}}||          house
+|-
+|de jongen, de jongens|| {{audio|nl-jongen.ogg|jongen}}||    boy, boys
+|-
+|de klok|| {{audio|nl-klok.ogg|klok}}||           clock
+|-
+|de klokkentoren|| {{audio|nl-klokkentoren.ogg|klokkentoren}}||       clock tower
+|-
+|de man|| {{audio|nl-man.ogg|man}}||           man
+|-
+|het meisje|| {{audio|nl-meisje.ogg|meisje}}||         girl
+|-
+|de middag|| {{audio|nl-middag.ogg|middag}}||         afternoon
+|-
+|de motor|| {{audio|nl-motor.ogg|motor}}||          motorcycle
+|-
+|het uur|| {{audio|nl-uur.ogg|uur}}||           hour; also "o'clock"
+|-
+|de vrouw|| {{audio|nl-vrouw.ogg|vrouw}}||          woman
+|-
+| breng je me... || ||       you take me...
+|-
+| dat is goed   ||  ||     very well (''lit.'': "that is good")
+|-
+| Ik kan... spelen || ||     I can play...
+|-
+| Het is  ||     ||      It is
+|-
+| Hoe laat is het? ||  ||     What is the time?
+|-
+| op een middag ||  ||     one afternoon
+|-
+| tot twee uur ||   ||     until two o'clock
+|-
+| Wil je... ? ||   ||     Do you want... ? (familiar form; also: Would you like to... ?)
+|-
+| van x tot y || ||        from x to y (exclusive)
+|-
+|brengen ||{{audio|nl-brengen.ogg| brengen}}||           to bring
+|-
+|spelen ||{{audio|nl-spelen.ogg| spelen}}||           to play
+|-
+|tellen ||{{audio|nl-tellen.ogg| tellen}}||           to count
+|-
+|voetballen ||{{audio|nl-voetballen.ogg|voetballen}} ||         to play soccer/football
+|-
+|dan ||{{audio|nl-dan.ogg|dan}} ||            then
+|-
+|daarna ||{{audio|nl-daarna.ogg|daarna}} ||           after that
+|-
+|elkaar ||{{audio|nl-elkaar.ogg|elkaar}} ||           each other
+|-
+|hallo ||{{audio|nl-hallo.ogg|hallo}} ||           hello
+|-
+|jouw ||{{audio|nl-jouw.ogg|jouw}} ||           your
+|-
+|je ||{{audio|nl-je.ogg|je}} ||            you
+|-
+|lang ||{{audio|nl-lang.ogg|lang}} ||            long
+|-
+|laat ||{{audio|nl-laat.ogg|laat}} ||            late
+|-
+|mijn ||{{audio|nl-mijn.ogg|mijn}} ||            my
+|-
+|naar ||{{audio|nl-naar.ogg|naar}}||            to (as in "I'm driving to London.")
+|-
+|tot ||{{audio|nl-tot.ogg|tot}} ||            to/until
+|-
+|we||{{audio|nl-we.ogg|we}}  ||            we
+|}
+<br clear="all">
+Also included in the vocabulary for Lesson 3 are the ordinal and cardinal numbers 1 through 12 from the table at the beginning of this lesson.
+
+==Quizlet==
+You can practice your vocabulary at [https://quizlet.com/85510659/dutch-vocabulary-wikibook-lesson-3-flash-cards/ Quizlet] (44 terms)
+
+==Progress made==
+If you have studies this lesson well, you should
+# be able to count to twelve and to twelfth
+# understand the gender situation in Dutch
+# understand some basic time telling
+# have gained another 42 words for your vocabulary
+
+Cumulative term count:
+
+:Les 1, Les 1A, Ex1: 226
+:Les 2, Les 2A, Ex2: 161
+:Les 3: 44
+
+;Grand total 431 terms
+
+==Appendix==
+
+<small>[[Dutch/Alfabet|Pronunciation Guide]]>></small>
+
+:*[[Dutch/Lesson 3A|Advanced Lesson 3]]>>
+
+{{BookCat}}

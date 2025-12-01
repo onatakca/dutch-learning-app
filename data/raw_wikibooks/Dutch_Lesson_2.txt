@@ -1,0 +1,681 @@
+{{Dutch/Navigation|type=les|n=2|suff=|head2=Onbekenden en vrienden ~ Strangers and Friends|t1=Simple conversations II|t2=Grammar: Introduction to Verbs|t3=Adjectives, demonstratives and articles|t4=Syntax: Question and negation}}
+==Gesprek 2-1==
+
+#First push the button to simply listen to the following conversation.
+#Then study the text to find out what the meaning is. If necessary, hover your mouse over a {{C|word|and see an instant translation}} if you don't know it. Once you think you understand the conversation open the dropdown below to see the full translation.
+#Finally listen to the conversation again and see how much you understand. First with eyes open to see the text. Then do it with eyes closed.
+#If there are parts you do not understand when listening, go back to step 2.
+#Finally use the vocabulary box on the right to memorize the vocabulary material
+{{Dutch/Textbox|
+[[Image:Nl-Dutch-gesprek-2-1.ogg|40px|noicon]]
+:''Standish'': {{C|Goedemorgen|good morning}} {{C|meneer|sir, mister}}. {{C|Hoe|How}} {{C|gaat|goes}} {{C|het|it}} {{C|met|with}} {{C|u|you (polite)}}?
+:''Jansen'': Goedemorgen. {{C|Goed|goed}}. {{C|Hoe|How}} {{C|heet|are called}} u?
+:''Standish'': {{C|Ik|I}} {{C|heet|am called}} Standish. Robert Standish. {{C|En|and}} u? {{C|Wat|What}} is {{C|uw|your}} {{C|naam|name}}?
+:''Jansen'': U heet Robert? {{C|Wat|how, what}} {{C|toevallig|coincidental}}! Ik heet {{C|ook|also}} Robert. Robert Jansen.
+:''Standish'': {{C|Inderdaad|Indeed}} toevallig! Wij heten {{C|allebei|both}} Robert. {{C|Weet|know}} u {{C|hoe|how}} {{C|die|that}} {{C|mevrouw|lady}} {{C|daar|there}} {{C|heet|is called}}?
+:''Jansen'': {{C|Ik geloof|I believe}} {{C|dat|that}} {{C|zij|she}} Alice {{C|heet|is called}}.
+:''Standish'': Gelooft u dat {{C|of|or}} bent u {{C|zeker|certain}} {{C|ervan|thereof, of it}}?
+:''Jansen'': {{C|Vrij|rather}} {{C|zeker|certain}}. Ze heet Alice Koopman.
+}}
+{|class="wikitable collapsible collapsed" style="float:right"
+|-
+!colspan="3"|Vocabulary
+|-
+!Word!!Pronunciation!!Meaning
+|-
+|goedemorgen||[[file:nl-goedemorgen.ogg]]||good morning
+|-
+|heten||[[file:nl-heten.ogg]]||to be called
+|-
+|de meneer||[[file:nl-meneer.ogg]]||gentleman
+|-
+|u||[[file:nl-u.ogg]]||you (formal)
+|-
+|uw||[[file:nl-uw.ogg]]||your (formal)
+|-
+|toevallig||[[file:nl-toevallig.ogg]]||coincidental
+|-
+|inderdaad||[[file:nl-inderdaad.ogg]]||indeed
+|-
+|allebei||[[file:nl-allebei.ogg]]||both of us/them etc.
+|-
+|de mevrouw||[[file:nl-mevrouw.ogg]]||lady
+|-
+|geloven||[[file:nl-geloven.ogg]]||to believe
+|-
+|zeker||[[file:nl-zeker.ogg]]||certain
+|-
+|vrij||[[file:nl-vrij.ogg]]||free, pretty
+|-
+|}
+{{Dutch/Translation|gesprek 2-1
+|
+:''Standish'': Good morning sir. How are you?
+:''Jansen'': Goed morning. Fine. What is your name?
+:''Standish'': I'm called Standish. Robert Standish. And you? What is your name?
+:''Jansen'': Is your name Robert? What a coincidence! My name is Robert as well. Robert Jansen.
+:''Standish'': A coincidence indeed! We are both called Robert. Do you know what that lady there is called?
+:''Jansen'': I believe her name is Alice.
+:''Standish'': Do you believe it or are you sure of it?
+:''Jansen'': Pretty sure. Her name is Alice Koopman.
+}}
+{{Dutch/Exercise|waar of niet waar
+|
+Study the above text and answer the following questions with
+:Dit is waar - (this is true)
+:Dit is niet waar - (this is not true)
+# Meneer Standish heet Charles
+# Meneer Standish en meneer Jansen heten allebei Robert
+# Dit is erg toevallig
+# Meneer Standish {{C|ziet|sees}} een mevrouw {{C|staan|stand, standing}}
+# Meneer Standish gelooft dat zij Heleen heet.
+# Standish en Jansen zijn {{C|goede|good}} {{C|vrienden|friends}}. {{C|Zij|They}} {{C|zeggen|say}} jij en jou {{C|tegen|to}} {{C|elkaar|each other}}.
+|
+# Meneer Standish heet Charles - niet waar. Hij heet Robert.
+# Meneer Standish en meneer Jansen heten allebei Robert - waar
+# Dit is erg toevallig - waar
+# Meneer Standish ziet een mevrouw staan - waar
+# Meneer Standish gelooft dat zij Heleen heet - niet waar. 
+# Standish en Jansen zijn goede vrienden. Zij zeggen jij en jou tegen elkaar - niet waar. Zij zeggen 'u'.
+}}
+
+==Pronunciation drill 2-1. Hoe heet u?==
+{{Dutch/Exercise|Your turn to say something
+|
+The little sentence "Hoe heet u?" literally means: ''What are you called?'' and is usually translated as: ''What's your name?''. It presents some serious pronunciation problems particularly for American speakers, because it contains three unfamiliar sounds. There are two difficult vowels, the [u] of "hoe" and the [y] of "u". They are hard because the American "u" is much less rounded than either and also more or less intermediary between the two in tongue position. 
+:'''Lips''': Both Dutch vowels are ''strongly rounded'', the lips are held as in blowing a kiss. 
+:'''Tongue''': For the [y] the tongue is pushed forward to produced a little cup just behind the teeth, for the [u] it is pulled back to form a cup in the throat area.
+
+In addition the Dutch "h" is a bit different, because it is generally ''voiced'' [ɦ]
+
+Listen to the recording and try to reproduce the sounds:
+*{{audio|Nl-Dutch-hoeheetu-drill.ogg|Hoe heet u?}}
+
+|
+:If you are French, Turkish or German the two vowels [u]/[y] are a piece of cake, but not the [ɦ].
+:If you are Hispanic, Italian or Russian the [u] is easy, but not [y] and [ɦ].
+:If you speak Arabic only the [y] should be a problem.
+
+Depending on your background you may have to revisit this to get your ears, lips and tongue used to it all.
+}}
+==Grammatica 2-1 ~ Introduction to Verbs==
+A '''[[Wikipedia:en:Verb|verb]]''' (in Dutch: ''werkwoord'') is that part of speech that describes an action. Verbs come in an almost bewildering array of tenses, moods, voices and aspects, and there are several major types: intransitive, transitive, ditransitive, and ergative verbs.  
+
+Fortunately, the Dutch verb is not too different from the English one, although it does have a few more forms.
+
+  I <u>am called</u> Standish                      ''Ik <u>heet</u> Standish'' 
+  What <u>are</u> you <u>called</u> (named)?              ''Hoe <u>heet</u> u?'' 
+  ...that she <u>is named (called)</u> 'Alice'     ''...dat ze 'Alice' <u>heet</u>''
+  We <u>are</u> both <u>called</u> Robert                 ''Wij <u>heten</u> allebei Robert''
+{|class="wikitable collapsible collapsed" style="float:right"
+|-
+!colspan="4"|Pronunciation
+|-
+|rowspan="2"|heet||rowspan="2"|[[file:nl-heet.ogg]]||geloof||[[file:nl-geloof.ogg]]
+|-
+|gelooft||[[file:nl-gelooft.ogg]]
+|-
+|heten||[[file:nl-heten.ogg]]||geloven||[[file:nl-geloven.ogg]]
+|-
+|colspan="4"|In the clips for heten and geloven the past tense and the past participle are also given.<br/>It is customary to memorize those three primitive forms of the verb, but we will deal with that later.
+|}
+
+The Dutch verb ''heten'' can best be translated as "to be named" or "to be called" and we see two forms of it here
+# a singular one: ''heet'' used with ''ik'',''u'',''ze'' 
+# a plural one ''heten'' used for ''wij'' (as well the other plural persons).
+Actually there are usually three forms. This can be seen from:
+
+{|
+|-
+|I believe||Ik geloof
+|-
+|do you believe?||geloof'''t''' u?
+|-
+|to believe||geloven
+|}
+  
+In the case of ''heten'' the extra '''''-t''''' does not get added because the stem already ends in a ''-t''.
+
+In a [[Dutch/Lesson 5|later lesson]] we will revisit the verb forms associated with each person.
+
+The irregular verb ''to be''-''zijn'' has a few more forms in both languages.
+
+==Gesprek 2-2 ~ De Engelsman==
+First push the arrow button to listen to the following conversation. Then inspect the translation and hover over each word you do not know to find out what it means. Once you understand the narrative run the audio again, following along, making sure you know what is being said. Use the pronunciation box on the right to further strengthen your comprehension both in listening and in reading.
+
+{|style="float:right"
+|
+{|class="wikitable collapsible collapsed" 
+|-
+!colspan="3"|Pronunciation
+|-
+|de {{Nlwikt|Engelsman}}||[[file:nl-Engelsman.ogg]]||Englishman
+|-
+|de {{Nlwikt|boekhouding}}||[[file:nl-boekhouding.ogg]]||bookkeeping, administration
+|-
+|het {{Nlwikt|meisje}}||[[file:nl-meisje.ogg]]||girl
+|-
+|{{Nlwikt|aangenaam}}||[[file:nl-aangenaam.ogg]]||pleasant
+|-
+|de {{Nlwikt|kennis}}||[[file:nl-kennis.ogg]]||acquaintance, knowledge
+|-
+|{{Nlwikt|maken}}||[[file:nl-maken.ogg]]||to make
+|-
+|de {{Nlwikt|Nederlander}}||[[file:nl-Nederlander.ogg]]||Dutchman
+|-
+|{{Nlwikt|echt}}||[[file:nl-echt.ogg]]||real, really
+|-
+|{{Nlwikt|waar}}||[[file:nl-waar.ogg]]||true; where
+|-
+|{{Nlwikt|erg}}||[[file:nl-erg.ogg]]||very
+|}
+|-
+|
+{|class="wikitable collapsible collapsed"
+|-
+!colspan="3"|Pronunciation 2
+|-
+|{{Nlwikt|interessant}}||[[File:nl-interessant.ogg]]||interesting
+|-
+|{{Nlwikt|kunnen}}||[[File:nl-kunnen.ogg]]||can, to be able
+|-
+|{{Nlwikt|als}}||[[File:nl-als.ogg]]||if, when
+|-
+|het {{Nlwikt|beetje}}||[[File:nl-beetje.ogg]]||little bit
+|-
+|{{Nlwikt|langzaam}}||[[File:nl-langzaam.ogg]]||slow, slowly
+|-
+|{{Nlwikt|spreken}}||[[File:nl-spreken.ogg]]||to speak
+|-
+|{{Nlwikt|goed}}||[[File:nl-goed.ogg]]||good
+|-
+|de {{Nlwikt|collega}}||[[File:nl-collega.ogg]]||colleague
+|-
+|{{Nlwikt|voorstellen}}||[[File:nl-voorstellen.ogg]]||to introduce
+|}
+|}
+{{Dutch/Textbox|
+[[Image:Nl-Dutch-gesprek-2-2.ogg|40px|noicon]]
+:Meneer Standish, een Engelsman, {{C|gaat|goes}} {{C|naar|to}} de {{C|boekhouding|bookkeeping, administration}}.
+* ''Meneer Standish'': Goedemorgen. {{C|Bent|Are}} {{C|u|you}} mevrouw Koopman?
+* ''Mevrouw Nieman'': Nee. {{C|Zij|She}} is het {{C|meisje|girl}} {{C|daar|there}}. Ik ben mevrouw Nieman. En u? {{C|Hoe heet u|What is your name}}?
+* ''Meneer Standish'': Ik heet Standish.
+* ''Mevrouw Nieman'': {{C|Aangenaam|Pleasant}} {{C|kennis te maken|to make acquintance}}. Bent u {{C|Nederlander|Dutchman}}?
+* ''Meneer Standish'': Nee, ik ben een Engelsman. 
+* ''Mevrouw Nieman'': {{C|Echt waar|really}}? Dat is {{C|erg|very}} interessant. Kunt u mij {{C|verstaan|understand}}?
+* ''Meneer Standish'': {{C|Ja|Yes}}. {{C|Als|If}} u {{C|een beetje|a little}} {{C|langzamer|more slowly}} {{C|spreekt|speak}}.
+* ''Mevrouw Nieman'': Goed zo! {{C|Mag|May}} ik u {{C|mijn|my}} collega {{C|voorstellen|introduce, present}}, mevrouw Koopman?
+* ''Meneer Standish'': {{C|Jazeker|certainly}}!
+}}
+
+{{Dutch/Translation|Gesprek 2-2|
+:Mr. Standish, an Englishman goes to the administration department.
+
+* ''Mr. Standish'': Good morning. Are you Mrs. Koopman?
+* ''Mrs. Nieman'': No, she is the girl over there. I am Mrs. Nieman. And you? What is your name?
+*  ''Mr. Standish'': Standish is my name. (lit.: I'm called Standish)
+* ''Mrs. Nieman'': Glad to meet you. Are you a Dutchman?
+* ''Mr. Standish'': No, I am an Englishman
+* ''Mrs. Nieman'': Really? That is very interesting. Can you understand me?
+* ''Mr. Standish'': Yes, If you speak a bit more slowly.
+* ''Mrs. Nieman'':  All right. May I introduce my colleague, Mrs. Koopman.
+* ''Mr. Standish'': Certainly!
+}}
+
+==Fill in the blank 2-2-F==
+Say the word you think that belongs in the blank and use the hover method to check your choice
+
+*Mevrouw Nieman wil Standish haar collega {{C|______|voorstellen}}
+*Mr. Standish vraag of ze een beetje {{C|______|langzamer}} wil spreken.
+*Mr. Standish bezoekt de {{C|______|boekhouding}}.
+*Mevrouw Nieman vraagt of Standish Nederlands kan {{C|_____|verstaan}}
+
+==Vocabulary drill 2-1==
+[[File:nl-Dutch-ch2-vocabulary-drill.ogg]]
+{{Dutch/Exercise|Some common phrases
+|
+Here are a few very common expressions.<br>
+Push the button and listen to this drill, repeat in the pauses and say the Dutch phrase when told to.
+|
+:What is your name? - ''Hoe heet je?''
+:What time is it? - ''Hoe laat is het?''
+:Good morning - ''Goedemorgen''
+:Please - ''Alstublieft''
+:You are welcome - ''Graag gedaan''
+:Thank you - ''Dank u wel''
+}}
+
+Of course memorizing words and expressions is an important part of learning any language and there are various ways of doing that. Have a look at the [[Dutch/Vocabulary|vocabulary]] pages. They are designed to help you acquire more words in a playful manner.
+
+==Grammatica 2-2 ~ Inversion in questions and negations==
+
+You may have wondered about the order of the words in
+
+: ik geloof dat ze Alice '''''heet'''''.
+
+Even though Dutch verbs are not so much more complicated than English ones, word order is. In fact it is quite a bit more complicated than in English. For the moment let's just leave the above sentence for what it is and start with questions.
+
+===Questions===
+
+A question sentence in Dutch simply '''''reverses''''' the order of subject and verb. 
+
+Recall: ''<span style="color:blue;">U</span> <span style="color:green;">heet</span> meneer Standish'' ('You are named Mr. Standish).
+
+It became: ''Hoe <span style="color:green;">heet</span> <span style="color:blue;">u</span>?'' as a question
+
+The normal word order of <span style="color:blue;">subject (''u'' or "you")</span> then <span style="color:green;">verb (''heten'')</span> is ''reversed'' and, in this case, an interrogative (''hoe'' or "how") added. 
+
+Additional examples:
+{|
+|-
+| ''Hoe <span style="color:green;">gaat</span> <span style="color:blue;">het</span> met u?'' ||↔|| ''<span style="color:blue;">Het</span> <span style="color:green;">gaat</span> goed met u''
+|-
+| ''<span style="color:green;">Bent</span> <span style="color:blue;">u</span> mevrouw Koopman?''||↔|| ''<span style="color:blue;">U</span> <span style="color:green;">bent</span> mevrouw Koopman''
+|-
+| ''<span style="color:green;">Bent</span> <span style="color:blue;">u</span> Nederlander?'' ||↔|| ''<span style="color:blue;">U</span> <span style="color:green;">bent</span> Nederlander'' ("You are Dutch").
+|-
+| ''<span style="color:green;">Verstaat</span> <span style="color:blue;">u</span> mij?''||↔||''<span style="color:blue;">U</span> <span style="color:green;">verstaat</span> mij'' ("You understand me").
+|-
+| ''<span style="color:green;">Gelooft</span> <span style="color:blue;">u</span>?''||↔|| ''<span style="color:blue;">Ik</span> <span style="color:green;">geloof</span>''
+|-
+|[[Image:Nl-Dutch-grammatica-2-2.ogg|40px|noicon]]
+|}
+English does the same thing when using the verb ''to be'':
+
+: I am - are you?
+: ik ben - bent u?
+
+Dutch does '''''not''''' use the auxiliary ''to do'' as English requires in most other cases:
+
+: ik weet  -  weet u?
+: I know   -  do you know? (instead of "know you?")
+
+===Negations===
+
+The negative is formed by simply adding ''niet'' at the end:
+
+:Ik versta u       -  I understand you
+:Ik versta u niet  -  I do not understand you
+
+Again, Dutch does ''not'' use the auxiliary ''to do''. (In fact using it sounds very foreign.)
+
+Even a negative question does not use ''to do'':
+
+:Verstaat u mij niet? - Don't you understand me?
+
+{{Dutch/Exercise|questions and negations
+|
+Turn the following statements into questions and translate:
+# U gelooft de man niet 
+# De man ziet een vrouw
+# U verstaat Nederlands
+# Het meisje daar is Anne
+# U hoort beneden mensen 
+|
+#Gelooft u de man niet? - Don't you believe the man?
+#Ziet de man de vrouw? - Does the man see the woman?
+#Verstaat u Nederlands? - Do you understand Dutch?
+# Is het meisje daar Anne? - Is the girl there Anne?
+# Hoort U beneden mensen? - Do you hear people downstairs?
+}}
+
+==Gesprek 2-3 ~ Het nieuwe meisje==
+[[File:Nl-Gesprek2-2.ogg|noicon|40px]]
+{|class="wikitable collapsible collapsed" style="float:right"
+|-
+!colspan="3"|Vocabulary
+|-
+|{{Nlwikt|nieuw}}||[[file:nl-nieuw.ogg]]||new
+|-
+|het {{Nlwikt|meisje}}||[[file:nl-meisje.ogg]]||girl
+|-
+|{{Nlwikt|mooi}}||[[file:nl-mooi.ogg]]||pretty, beautiful
+|-
+|{{Nlwikt|gek}}||[[file:nl-gek.ogg]]||crazy
+|-
+|{{Nlwikt|lang}}||[[file:nl-lang.ogg]]||long
+|-
+|het {{Nlwikt|haar}}||[[file:nl-haar.ogg]]||hair
+|-
+|{{Nlwikt|toch}}||[[file:nl-toch.ogg]]||yet, though
+|}
+In this conversation, the parties are close friends.
+{{Dutch/Textbox|
+* ''Karel'': Heleen, {{C|wie|who}} is dat {{C|nieuwe|new}} {{C|meisje|girl}}? Die brunette {{C|daar|there}}. 
+* ''Heleen'': Ik {{C|geloof|believe}} dat ze Karolien heet. 
+* ''Karel'': Ze is {{C|erg|very}} {{C|mooi|pretty, beautiful}}.
+* ''Heleen'': Ze is {{C|leuk|cute}}, als je kleine meisjes met {{C|lang|long}} {{C|zwart|black}} {{C|haar|hair}} {{C|leuk vindt|leuk vinden:fancy}}.
+* ''Karel'': Ja. Ik ben {{C|gek|crazy}} op dat haar. Wat een {{C|mooie meid|babe}}!
+* ''Heleen'': {{C|Karel toch|Shame on you}}!
+}}
+
+{{Dutch/Translation|Gesprek 2-3|
+*''Charley'': Helen, who is that new girl? That brunette there.
+*''Helen'': I believe her name is Caroline.
+*''Charley'': She is very beautiful.
+*''Helen'': She is cute, if you like little girls  with long black hair.
+*''Charley'': Yeah, I love that hair. What a beauty!
+*''Helen'': But Charley! (Shame on you)
+}}
+
+==Fill in the blank 2-3-F==
+Use the hover method to check your answer.
+
+*Karel vraag aan Heleen wie dat nieuwe {{C|_____|meisje}} is.
+*Karel vindt Karolien erg {{C|_____|mooi}}
+*Heleen denkt dat Karel het lange zwarte {{C|_____|haar}} leuk vindt.
+*Karel is {{C|____|gek}} op dat haar.
+
+==Grammatica 2-2 Adjectives, demonstratives and articles==
+===Gender===
+Where English uses the '''demonstrative pronoun''' ''that'', Dutch uses either ''dat'' or ''die'', recall:
+
+:''dat'' nieuwe meisje. ''Die'' brunette. - ''that'' new girl, ''that'' brunette
+
+Similarly, where English uses the '''article''' ''the'', Dutch has two possibilities: ''de'' or ''het'', recall:
+
+:''de'' boekhouding, ''het'' meisje. - ''the'' administration, ''the'' girl
+
+We will revisit this phenomenon (gender) in the next lesson more extensively. There is a bit of a problem with it in Dutch.
+
+For the moment it is enough to realize that there are two kinds of words, 
+:ones that take ''de'' and ''die''
+:ones that take ''het'' and ''dat''
+
+For this reason it is advisable to always memorize a word ''together'' with its definite article, e.g. as "de boekhouding", not simply as "boekhouding".
+
+
+Both articles and demonstrative pronouns are a special kind of '''adjectives''': words that are added to make the meaning of another word more precise, like ''new'', ''small'' or ''exciting''
+
+{{Dutch/Exercise|die en dat
+|
+Replace the articles by the correct demonstratives ''die'' or ''dat'' and translate (might have to guess a bit):
+# Het huis  (house) is van het nieuwe meisje
+# De huizen zijn erg groot.
+# De boekhouding is niet in orde
+# De brunette heeft lang haar.
+# Ik weet het telefoonnummer niet.
+# Weet jij wie de vrouw is?
+|
+# Dat huis is van dat nieuwe meisje - That house belongs to that new girl
+# Die huizen zijn erg groot. - Those houses are very big
+# Die boekhouding is niet in orde - The administration is not in order
+# Die brunette heeft lang haar. - That brunette has long hair
+# Ik weet dat telefoonnummer niet. - I do not know that telephone number
+# Weet jij wie die vrouw is? Do you know who that woman is?
+}}
+
+===Inflection===
+Recall that some adjectives in the dialogue ended in '''''-e''''' (mooi''e'' meid), sometimes they did  not (is erg mooi).
+
+Adjectives can be used in two ways: before a noun (as an ''attribute'') and after a copula (as ''predicate'') (a copula is a verb like '''is''' or '''were''').  In English the adjective remains the same in both cases:
+
+:The house is '''red''' ("red" is the predicate)
+:The '''red''' car ("red" is an attribute of "car")
+
+As a predicate, Dutch adjectives are uninflected (i.e. they stay the same):
+
+:Ik ben gek (I am crazy)
+:Ze is mooi (She is pretty)
+:De auto is rood (The car is red)
+
+Uninflected Dutch adjectives can typically also be used as an adverb. In contrast to English that does not require a suffix like ''-ly''
+
+:Prachtig gedaan! (Beautiful''ly'' done!) 
+
+But in Dutch adjectives are ''inflected'' with an ending ''-e'', if they occur as an attribute. Compare:
+{|class="wikitable" style="float:right"
+|-
+|[[Dutch/Vocabulary/Colours|practice your colors]]
+|}
+:de rode auto - the red car
+:een rode auto - a red car
+:de rode auto's - the red cars
+:rode auto's  - red cars
+
+But neuter words are a bit more omplicated. Neuter words are the ones that carry the definite article ''het'' and the demonstrative ''dat''.(Again: we will revisit neuter nouns in the next lesson.)
+
+:het rode huis
+:een '''rood''' huis - a red house
+:de rode huizen
+:rode huizen
+
+As you see the adjective is not inflected after the indefinite article ''een''.
+
+The adjective is also left uninflected, if the neuter noun occurs without any article:
+
+:met groot gemak - with great ease (het gemak: neuter)
+
+This in not true for masculine or feminine words:
+
+:in hoge nood - in desperate need (de nood is a masculine word, but more about that later)
+
+Thus, apart from the indefinite neuter, an attributive adjective is usually inflected with '''''-e'''''.
+
+There are a few exceptions, compare e.g.:
+
+:de man - the man
+:een grote man  - a big man
+:een groot man - a great man
+
+{{Dutch/Exercise|inflection
+|
+Put the adjectives in parentheses in the correct form
+# Dit is een (groot) boekhouding
+# Deze haren zijn (lang)
+# Dit (groot) huis is (hoog)
+# Weet jij wie die (mooi) auto heeft?
+# Dit is een (klein) meisje
+|
+# Dit is een grote boekhouding
+# Deze haren zijn lang
+# Dit grote huis is hoog
+# Weet jij wie die mooie auto heeft?
+# Dit is een klein meisje
+}}
+
+===Making nouns out of adjectives===
+Adjectives can be turned into nouns, by assuming their inflected form:
+
+:Dat is een grote  
+::That is a big one
+:Dat is een kleine
+::That is a small one
+:Die lange heeft mijn fiets gestolen
+::That tall guy has stolen my bike
+
+Notice that Dutch does not use 'one' in such cases.
+
+There are a number of adjectives that can be turned into nouns by adding '''''-te'''''.  They all carry '''de'''. In English the corresponding suffix is '''''-th''''':
+
+:wijd – wijdte (wide - width)
+:lang – lengte (long, tall - length)
+:groot – grootte (big - size)
+:breed – breedte (broad - breadth) 
+:eng – engte (narrow - narrowness)
+:zwaar – zwaarte (heavy - heaviness)
+:heet – hitte (hot - heat)
+:warm – warmte (warm - warmth)
+:zwak – zwakte (weak - weakness)
+:sterk – sterkte (strong - strength)
+:droog – droogte (dry - drought)
+:hoog – hoogte (high - height)
+:menig – menigte (many - crowd)
+:duur – duurte (expensive - dearth) <!-- en ja dat woord bestaat echt in het Engels) -->
+:gewoon – gewoonte (usual - habit)
+
+More about nouns in the next lesson.
+
+{{Dutch/Exercise|adjectives,word order
+|
+Translate into Dutch:
+#She has red hair
+# How is she doing?
+#She has a small black car
+# The length is not very great
+#How tall is she?
+#The red houses are nice
+#Don't you believe that?
+#The heat is very great
+# Do you know who that heavy man is? 
+|
+#She has red hair
+#:Zij heeft rood haar
+# How is she doing?
+#:Hoe gaat het met haar?
+#She has a small black car
+#:Ze heeft een kleine zwarte auto
+# The length is not very great
+#:De lengte is niet erg groot
+#How tall is she?
+#:Hoe lang is ze?
+#The red houses are nice
+#:De rode huizen zijn mooi
+#Don't you believe that?
+#: Geloof je dat niet?
+#The heat is very great
+#: De hitte is erg groot
+# Do you know who that heavy man is? 
+#: Weet jij wie die zware man is?
+}}
+
+==Woordenlijst 2==
+{|class="wikitable sortable" style="text-align:left; float:left; clear:right; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #AAAAAA; border-right-width: 1px; border-bottom-width: 1px; border-collapse: collapse; font-size: 100%;"
+! Dutch word!!audio file!!English translation
+|-
+| de brunette      ||   ||        brunette
+|- 
+| de Engelsman     ||   ||        Englishman
+|-
+| het haar, de haren||{{audio|nl-haar.ogg|haar}}  ||        hair(s)
+|-
+| het meisje, de meisjes||{{audio|nl-meisje.ogg|meisje}}||      girl, girls
+|-
+| de collega       ||{{audio|nl-collega.ogg|collega}}||           colleague
+|-
+| Mag ik...voorstellen? ||{{audio|nl-mag ik voorstellen.ogg|mag ik voorstellen?}}||      May I introduce...?
+|-
+| Jazeker                 ||{{audio|nl-jazeker.ogg|jazeker}}||  yes, indeed
+|-
+| Aangenaam<br> kennis te maken ||{{audio|nl-aangenaam.ogg|aangenaam}}<br>{{audio|nl-kennismaken.ogg|kennismaken}} ||Pleased to meet you
+|-
+| Goed zo!            ||{{audio|nl-goedzo.ogg|goedzo}}      ||  That's nice!
+|-
+| gek zijn (op)             ||{{audio|nl-gek.ogg|gek}}<br>{{audio|nl-zijn.ogg|zijn}}||  to be crazy (about) 
+|-
+| verstaan                  ||{{audio|nl-verstaan.ogg|verstaan}}||  to understand
+|-
+|   verstaat u?             ||  ||  do you understand?
+|-
+| geloven                   || {{audio|nl-geloven.ogg|geloven}}|| to believe
+|-
+|   ik geloof               ||   || I believe
+|-
+| heten                     ||{{audio|nl-heten.ogg|heten}}||  to name, call (a name)
+|-
+|   ze heet                  ||  || she is called
+|-
+|praten                    ||{{audio|nl-praten.ogg|praten}}||  to speak, to talk
+|-
+|  u praat                 ||   || you speak
+|-
+|voorstellen               ||{{audio|nl-voorstellen.ogg|voorstellen}}||  to introduce
+|-
+|leuk vinden               ||{{audio|nl-leuk.ogg|leuk}}<br>{{audio|nl-vinden.ogg|vinden}}||  to like
+|-
+|  als je ... leuk vindt    ||  || if you like ...
+|-
+| Nederlands             ||{{audio|nl-Nederlands.ogg|Nederlands}} ||      Dutch
+|-
+| het (neuter)             ||{{audio|nl-het.ogg|het}} ||    the
+|-
+| de (m/f)                ||{{audio|nl-de.ogg|de}} ||     the
+|-
+| dat (neuter)            ||{{audio|nl-dat.ogg|dat}} ||     that
+|-
+| die (m/f)               ||{{audio|nl-die.ogg|die}} ||     that
+|-
+| daar                   ||{{audio|nl-daar.ogg|daar}} ||      there
+|-
+| daarginds              ||{{audio|nl-daarginds.ogg|daarginds}} ||      over there
+|-
+| daarachter            ||{{audio|nl-daarachter.ogg|daarachter}} ||       over there 
+|-
+| een                  ||{{audio|nl-een.ogg|een}} ||        a, an
+|-
+| een beetje            ||{{audio|nl-beetje.ogg|beetje}} ||       somewhat, a bit
+|-
+| haar                  ||{{audio|nl-haar.ogg|haar}} ||       her
+|-
+| interessant          ||{{audio|nl-interessant.ogg|interessant}} ||        interesting
+|-
+| leuk                ||{{audio|nl-leuk.ogg|leuk}} ||         cute
+|-
+| kort, korte         ||{{audio|nl-kort.ogg|kort}} ||         short
+|-
+| lang, lange        ||{{audio|nl-lang.ogg|lang}} ||          long
+|-
+| langzaam          ||{{audio|nl-langzaam.ogg|langzaam}} ||           slow
+|-
+| langzamer         ||{{audio|nl-langzamer.ogg|langzamer}} ||           slower
+|-
+| mijn              ||{{audio|nl-mijn.ogg|mijn}} ||           my
+|-
+| mij               ||{{audio|nl-mij.ogg|mij}} ||           me
+|-
+| mooi               ||{{audio|nl-mooi.ogg|mooi}} ||          beautiful
+|-
+| naar               ||{{audio|nl-naar.ogg|naar}} ||          to
+|-
+| nieuw, nieuwe      ||{{audio|nl-nieuw.ogg|nieuw}} ||          new
+|-
+| zwart, zwarte     ||{{audio|nl-zwart.ogg|zwart}} ||           black
+|-
+| zij               ||{{audio|nl-zij.ogg|zij}} ||           she
+|-
+| u           ||{{audio|nl-u.ogg|u}} ||                 you
+|-
+| als   ||{{audio|nl-als.ogg|als}} ||                       if
+|-
+| wie?   ||{{audio|nl-wie.ogg|wie}} ||                      who? 
+|}
+<br clear="all">
+==Quizlet==
+The vocabulary can be practiced as [https://quizlet.com/85264029/dutch-wikibook-vocabulary-lesson-2-flash-cards/ Quizlet] (30 terms)
+
+==Exercises==
+
+{{Dutch/Exercise|Additional vocabulary (12 terms)|nosol=1
+|
+Go to the [[Dutch/Vocabulary/Animals]] to learn the most important animals in the Dutch language. Once you know them all, do the self test to make sure you really do know them.
+|
+}}
+
+{{Dutch/Exercise|Quizlet of -te words and colors|nosol=1
+|
+Use this [https://quizlet.com/85591160/dutch-wikibook-vocabulary-colors-te-words-flash-cards/ Quizlet] to further practice adjectives and their -te nouns as well as the basic colors (45 terms)
+|
+}}
+
+==Progress made==
+If you have studied the above lesson well you should have
+#been introduced to verbs in the present tense
+#been introduced to one element of word order: inversion
+#become able to ask a question
+#become able to make a sentence negative with ''niet''
+#been introduced to adjectives and their inflection
+#gained vocabulary
+
+Cumulative vocabulary count: 
+#Les 1: 116 terms, Les 1A: 89 terms. Example 1: 21 terms  '''Total 226 terms.'''
+#Les 2:  82 terms  '''Total 82 terms'''
+#'''Grand total 308 terms'''
+
+
+
+<small>[[Dutch/Alfabet|Pronunciation Guide]] >> </small>
+
+:* [[Dutch/Lesson 2A|Practice Lesson 2]]
+:* [[Dutch/Example 2|Cultural Lesson 2]] >>
+
+{{BookCat}}
